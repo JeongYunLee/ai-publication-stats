@@ -1,0 +1,521 @@
+# Source
+/Users/jeongyunl/Library/Mobile Documents/com~apple~CloudDocs/HIKE_대학원/2026/대학원강의/문헌정보학통계분석/AI-publish/articles/THE EFFECT OF ENTREPRENEURIAL  SELF-EFFICACY ON THE PERFORMANCE OF SMALL BUSINESSES IN ALGERIA.pdf
+
+# PageCount
+12
+
+## Page 1
+MODERN MANAGEMENT REVIEW 2022
+MMR, Vol. 27, No. 2(2022), pp 67-78 April-June
+Ayoub MESSIKH1
+THE EFFECT OF ENTREPRENEURIAL
+SELF-EFFICACY ON THE PERFORMANCE OF SMALL
+BUSINESSES IN ALGERIA: A CASE STUDY IN SKIKDA
+The main purpose of this paper is to examine the effect of entrepreneurial self-efficacy (ESE)
+as one of the dimensions of entrepreneurial spirit on the performance of Small Enterprises
+(PSEs) in Skikda, Algeria. Based on a self-administered survey questionnaire, data were
+collected from a random sample of 136 small enterprises (owners) in Skikda. The study
+adopted both descriptive and regression analyses to estimate the effect of entrepreneurial self-
+efficacy. Collected data were analyzed using Statistical Package for Social Sciences (SPSS
+version 23). The findings demonstrate that self-efficacy significantly affects the performance
+of Small Enterprises in Skikda. Where 27.7% of the changes in the level of small business
+performance are caused by the change in entrepreneurial self-efficacy, which is considered
+a mediocre effect, which can be explained by the presence of other factors affecting the
+performance of these enterprises. However, the presence of this positive effect calls for
+focusing on raising the self-efficacy of Algerian entrepreneurs.
+Keywords: Entrepreneurial Self-Efficacy, Performance, Small Business, Skikda Algeria.
+1. INTRODUCTION
+The phenomenon of entrepreneurship currently occupies great and increasing
+importance at the same time, whether for developed or developing economies, because of
+its positive effects on economic, social, and even environmental levels, it is considered an
+important source of wealth, creativity, and job opportunities (Christian, 1993). As Octave
+Gélinier already pointed out in 1978, just a few years after the first oil shock which marked
+the end of the glorious thirties:
+The countries, the professions, the companies which innovate and develop are
+above all those which practice entrepreneurship. The statistics of economic
+growth, international trade, licenses, patents, and innovations for the last thirty
+years firmly establish this point: it is expensive to do without an entrepreneur.
+This view clearly shows that it is necessary to go beyond the strict framework of
+business creation, to take a full measure of the importance of the entrepreneurial
+phenomenon in our economies and our societies as well as in our environment
+(Messikh, 2018).
+1 Ayoub Messikh, Doctor of business management, Lecturer professor, Faculty of Economics,
+Commerce and management Sciences, Laboratory of Economic, Finance & Management
+(ECOFIMA), 20 Aout 1955 University, BP 26 el-hadaiek 21000 Skikda – Algeria; e-mail:
+a.messikh@univ-skikda.dz. ORCID: 0000-0002-2088-4486.
+
+## Page 2
+68 A. Messikh
+Considering that the majority of contemporary researchers specializing in business
+administration, such as “Gilder”, consider that the entrepreneur is the owner and organizer
+of the small and medium enterprise (SME), this type of institution has been closely
+associated with entrepreneurship, which led to studying the phenomenon of entrepre-
+neurship through small and medium enterprises. Where these institutions play a very
+important pivotal role in achieving the economic and social development of societies,
+however, the increase in the intensity of competition in the field of business has put this
+type of institution in a weak position based on the limited resources (Ayoub, 2017). The
+success of these institutions depends on responding to the challenges of the business
+environment, which depends largely on the strategy of these institutions in the orientation
+and adoption of entrepreneurial behaviors and skills such as entrepreneurial self-efficacy.
+Following the success of many economies as a result of focusing on the SMEs, the ideas
+of researchers in favor of entrepreneurship began to find wide acceptance on the basis that
+they are the first elements that create value and benefit at all levels, which prompted Algeria
+to move towards the establishment and promotion of this type of enterprise, based on the
+breaking the socialist approach at the end of the Eighties, and replacing it with another
+approach based on a free economy based on a new model of economic development, as it
+was proven to decision-makers that entrepreneurs and SMEs have become the necessary
+element for economic integration and diversification, as they constitute the main source of
+wealth, employment, innovation and promotion of exports outside hydrocarbons (Messikh,
+2017). But the weak entrepreneurial potential of the Algerian individual emerging from
+socialist thought made the entrepreneurship path move at a very weak pace, which the
+government tried to solve by establishing various accompanying bodies for SMEs that
+aimed to revive the spirit of entrepreneurship and help small and medium enterprises to
+achieve success.
+The structure and independence of small businesses make the entrepreneur the focus of
+its work, and the success or failure of small enterprises depends mainly on the capabilities
+and individual personality of the entrepreneur. In this regard, many studies that revolve
+around the mortality, sustainability, and growth of small enterprises indicate that the
+bankruptcy and failure of these enterprises are largely due to the lack of entrepreneurial
+spirit and personality including entrepreneurial self-efficacy of the owner and mis-
+management.
+As such, ESE has emerged as a significant psychological concept in entrepreneurship
+research, influencing entrepreneurial motivation, intention, behavior, and performance, as
+well as being a critical target outcome of entrepreneurship training and education.
+Moreover, due to the growing influence of entrepreneurial thinking and acting on career
+development and vocational behavior (Newman, Obschonka, Schwarz, Cohen, and Nielsen,
+2019). Self-efficiency, being the belief of people to achieve the desired outcome has been
+reported as a strong predictor of entrepreneurial performance (Zubair and Khan, 2021).
+The relationship between entrepreneurial self-efficacy and small business performance
+receives considerable scholarly attention in the literature, but few studies have been
+conducted among Algerian SMEs, and in the general context of entrepreneurial intention,
+without a link to SME's performance. Hence, this investigation’s purpose is to add to the
+research in the newer context of Algeria. Thus, this study was an attempt to bridge this gap
+in the literature. This study can be used to supplement existing theories on entrepreneurial
+self-efficacy and small-business performance. This research also has significant
+
+## Page 3
+The effect of entrepreneurial self-efficacy… 69
+implications for academics and practitioners to understand better entrepreneurial self-
+efficacy and small business performance.
+Several studies at the institutional level and in the field of entrepreneurial behavior have
+shown a positive effect of the entrepreneurial self-efficacy component as one of the internal
+entrepreneurial capabilities on the performance and competitiveness of small and medium
+enterprises (Srimulyani, Hermanto, 2022; Zubair et al., 2021; Shen et al., 2021; and
+Klongthong et al., 2020), This is what the research seeks through the essential question of
+the impact that entrepreneurial self-efficacy can have on the performance of small
+enterprises in Algeria (Skikda).
+2. ENTREPRENEURIAL SELF-EFFICACY AND PERFORMANCE
+OF SMALL BUSINESSES: LITERATURE REVIEW
+2.1. Entrepreneurial self-efficacy (ESE)
+There have been several studies that have stressed the relevance of entrepreneur self-
+efficacy in obtaining and fulfilling business goals. In his theory of social learning, Bandura
+(1977) was the first to introduce the idea of self-efficacy. It was defined as the strength of
+an individual's belief in themselves and their capacity to successfully fulfill roles that are
+relevant to entrepreneurship (Bandura, 1977). Boyd and Vozikis proposed in 1994 the idea
+that self-efficacy plays an important role in the development of intentions and business
+(Boyd, Vozikis, 1994). In the same year, Krueger and Brazeal proposed the idea that self-
+-efficacy makes it possible to consider entrepreneurial potential (Krueger, Brazeal, 1994).
+Self-efficacy is a specific cognitive variable in assessing initiative behavior (Levander,
+Raccuia, 2001). It is also an essential element for starting entrepreneurial activities (Baron,
+Markman, and Hirsa, 2001). Entrepreneurial self-efficacy is recommended as a crucial trait
+held by entrepreneurs in the sphere of entrepreneurship since it aids them in translating
+unpredictable business circumstances into opportunities. On the other hand, People without
+this characteristic saw the identical scenario as a barrier (Maitlo, Pacho, Bhutto, Xuhui,
+2020).
+Self-efficacy is defined by Social Cognitive Theory as an individual's assessment of
+their ability to carry out certain courses of action that necessitate achieving a specific result.
+It is the assessment of one's ability to turn projected outcomes into actions or the assessment
+of one's ability to plan and execute a certain course of action (Bandura, 1993). It relates to
+people's subjective perceptions that they have a distinctive capacity to execute a task, and
+it, therefore, reflects the individual's belief in his ability to achieve specific conduct
+(Messikh, 2021).
+Entrepreneurial self-efficacy from the previous definitions can be defined as an
+entrepreneur's belief that he or she has the ability, motivation, and resources required to
+complete a task.
+2.2. Performance of small businesses
+The issue of small and medium enterprises has taken great interest by researchers,
+specialists, and governments alike, compared to the previous one, as attention was focused
+only on the major enterprise as the unique generator of wealth and work, but soon the view
+was reversed after the emergence of the increasing importance of the sector of small and
+medium enterprises, which it is often associated with the name of the entrepreneur. Small
+
+## Page 4
+70 A. Messikh
+and medium-sized businesses have long been recognized as a source of economic
+development and progress (Oladimeji, Sofoluwe, Odunaya, 2021).
+Through directive law No. 01/18 of 12/12/2001 related to the promotion of small and
+medium enterprises, these enterprises (SMEs) were defined according to quantitative
+criteria (number of workers, sales volume, capital volume) as:
+Small enterprise It is every institution that employs between 10 and 49 people and
+its turnover does not exceed two hundred million Algerian dinars, or its total
+annual proceeds do not exceed one hundred million Algerian dinars. While the
+medium institution according to this law is every institution that employs from 50
+to 250 people and its annual turnover is what between two hundred million and
+two billion DA, or the total annual proceeds are between 100 and 500 million DA
+(Algerian Official journal, 2001).
+Many academics stress the need of measuring performance in small businesses to
+determine their success or failure. Income, employment, Competitive advantage, and
+profitability have been the most common ways to measure business performance in terms
+of growth, and many studies have noted that profitability is difficult to measure due to
+a variety of technical accounting concerns (Zubair, Khan, 2021).
+The competitive advantage derived from internal organizational competencies and skills
+may be safer in terms of generating profits for firms (Akeke, Adetayo, Akeke, Oyebanji,
+2021). Here, entrepreneurial self-efficacy is one of the most prominent of these
+competencies that should be strengthened by the Algerian entrepreneur to enhance the
+chances of success of his organization.
+2.3. The aim of the study and research questions
+The study aims to know the degree of effect that the self-entrepreneurial capacity
+dimensions (individual beliefs, Cognitive resources, and the actions) plays on the
+performance of small enterprises (business performance in terms of growth: income,
+number of employees, competitive advantage) in Skikda, Algeria.
+Through the previous (main objective) and to know the effect of entrepreneurial self-
+efficacy on the performance of small enterprises in Skikda, the following main question can
+be asked: To what extent does entrepreneurial self-efficacy affect the small business
+performance in SKIKDA?
+The following specific questions have also been addressed based on the main question
+to explore the impact of (ESE) dimensions on small business performance:
+ To what extent do the individual beliefs affect the performance of small businesses
+in Skikda?
+ To what extent do the Cognitive resources affect the performance of small businesses
+in Skikda?
+ To what extent do the actions (needed to perform specific tasks) affect the
+performance of small businesses in Skikda?
+ Are there statistically significant differences in the answers of the sample members
+regarding the impact of Entrepreneurial Self-Efficacy on the performance of a small
+business, attributed to demographic variables?
+
+## Page 5
+The effect of entrepreneurial self-efficacy… 71
+3. RESEARCH METHODOLOGY
+In order to answer the main problematic and achieve the goal of the study, a random
+sample of small enterprises in the city of Skikda was studied during the last three months
+of 2021.
+3.1. Population and sample of study
+The population of this study represents all small enterprises in Skikda with an amount
+equal to 320 small enterprises, according to the statistics of the statistics department of the
+Directorate of Small and Medium Enterprises of Skikda for the year 2020.
+The requests were randomly selected to ensure that each unit in the community was an
+equal opportunity to be selected as a sample for this study.
+A sample size of 174 SEs was derived using the Krejcie and Morgan (1970) table, and
+a questionnaire was distributed to them. 136 analyzable forms were retrieved, which means
+a response rate of 78.16%. Descriptive statistics, Pearson Product Moment Correlation
+Coefficient, and regression analysis were used for statistical analysis with the aid of SPSS
+version 23.
+3.2. Reliability and internal consistency of the study instrument
+Reliability analysis was done using the alpha Cronbach method to test the stability of
+the measuring instrument as follows.
+Table 1. Reliability statistics (alpha Cronbach coefficient)
+Axes Number of terms Alpha Cronbach coefficient
+individual beliefs 04 0.870
+actions (needed to perform
+specific tasks)
+04 0.896
+cognitive resources 04 0.878
+performance of small business 09 0.778
+all axes 21 0.888
+Source: Own calculations based on spss output.
+It is clear from the above table that the value of the alpha Cronbach coefficient for the
+various axes exceeded 0.6 (60%), which ranges between 0.778 and 0.896, which is a high
+and acceptable value, while the total value of the Alpha Cronbach coefficient is 0.888,
+which is also a high and acceptable value. This indicates that the questionnaire has a high
+degree of stability, and this reassures the researcher of its application to all members of the
+study sample.
+The method of the Pearson correlation coefficient was used in to verify the validity
+(internal consistency) of the construction between the averages of the axes and the total
+mean of the tool, as shown in the following table.
+It is clear from the above table that the value of Pearson's correlation coefficients is
+acceptable for the axes and the tool as a whole and the correlation coefficients are significant
+at the 1% level of significance, where the significance reached p ≤ 0.01 (**).
+
+## Page 6
+72 A. Messikh
+Table 2. Internal consistency (Pearson correlation coefficient)
+Axes Correlation coefficient Significance level
+individual beliefs 0.613** 0.000
+actions (needed to perform
+specific tasks) 0.505** 0.000
+cognitive resources 0.708** 0.000
+performance of small business 0.719** 0.000
+Source: Own calculations based on spss output.
+3.3. Normal distribution test
+The Kolmogorov-Smirnov test was used to find out whether the study model was subject
+to a normal or abnormal distribution, to determine the nature of the tests used in the
+hypothesis test. The results were as follows.
+Table 3. Normality (Kolmogorov-Smirnov) test
+Kolmogorov-Smirnov
+Axes Value Z Sig*
+all the axes of study 0.193 0,000
+Source: Own calculations based on spss output.
+It is clear from the above table that the value of the significance level for each section
+of the test results (axes) is less than 0.05 (*). This note indicates that the data do not follow
+a normal distribution. This is what requires relying on nonparametric tests to answer the
+established hypotheses.
+4. RESULTS AND DISCUSSION
+To test the hypothesis of the study, the simple regression analysis was used, the outcome
+of the analysis are presented in the following tables:
+Hypothesis 1
+H1: There is a statistically significant effect at the 0.05 level of significance for the
+individual beliefs on the performance of small businesses in Skikda.
+Table 4. The result of a simple regression analysis to test the effect of individual beliefs on
+the performance of small businesses
+Axis B value T value F value R R2 Sig
+individual
+beliefs 0.307 4.625 21.386 0.371 0.138 0.000
+Source: Own calculations based on spss output.
+Table 4 shows the effect of the individual beliefs on the performance of small businesses
+in Skikda. The correlation coefficient reached (0.371) at the level of significance of 0.000
+which is less than 0.05, and the determination coefficient (0.138) means that (13.8%) of
+changes in the level of small businesses performance in Skikda resulting from the change
+in the level of individual beliefs, The value of the impact degree was (0.307), this reflects
+
+## Page 7
+The effect of entrepreneurial self-efficacy… 73
+that the increase in the individual beliefs leads to an increase in the level of small enterprises
+performance, which shows the significance of this relationship is the value of F (21.386)
+and the value of T (4.625), This confirms the validity of the first sub-hypothesis (H1), which
+says: There is a statistically significant effect at the 0.05 level of significance for the
+individual beliefs on the performance of small businesses in Skikda.
+Hypothesis 2
+H2: There is a statistically significant effect at the 0.05 level of significance of the Cognitive
+resources on the performance of small businesses in Skikda.
+Table 5. The result of the simple regression analysis to test the effect of Cognitive resources
+on the performance of small businesses
+Axis B value T value F value R R2 Sig
+Cognitive resources 0.330 5.042 25.420 0.399 0.159 0.000
+Source: Own calculations based on spss output.
+Table 5 shows the impact of the Cognitive resources on the performance of small
+businesses in Skikda. The correlation coefficient reached (0.399) at the level of significance
+of 0.000 which is less than 0.05 and the determination coefficient (0.159), means that
+(15.9%) of changes in the level of small business performance resulting from the change in
+the level of cognitive resources. The value of the effect degree was (0.330), and this reflects
+that the increase in cognitive resources leads to an increase in the level of small business
+performance, and what shows the significance of this relationship is the value of F (25.420)
+and the value of T (5.042), This confirms the validity of the second sub-hypothesis (H2),
+which says: There is a statistically significant effect at the 0.05 level of significance of the
+Cognitive resources on the performance of small businesses in Skikda.
+Hypothesis 3
+H3: There is a statistically significant effect at the 0.05 level of significance of the actions
+on the performance of small businesses in Skikda.
+Table 6. The result of a simple regression analysis to test the effect of the actions (needed to
+perform specific tasks) on the performance of small businesses
+Axis B value T value F value R R2 Sig
+actions 0.424 6.521 42.530 0.491 0.241 0.000
+Source: Own calculations based on spss output.
+Table 6 shows the effect of the actions (needed to perform specific tasks) on
+the performance of small businesses. The correlation coefficient reached (0.491) at
+a significance level of 0.000 which is less than 0.05, and the determination coefficient
+(0.241), means that (24.1%) of changes in the level of small business performance resulting
+from the change in the level of actions. The value of the degree of effect was (0.424), this
+reflects that the increase in the actions needed to perform specific tasks leads to an increase
+in the level of small enterprises performance, which shows the significance of this
+relationship is the value of F (42.530) and the value of T (6.521), This confirms the validity
+of the third sub-hypothesis (H3), which says: There is a statistically significant effect at the
+0.05 level of significance of the actions on the performance of small businesses in Skikda.
+
+## Page 8
+74 A. Messikh
+Hypothesis 4
+H4: There are statistically significant differences at the level of 0.05 in the answers of the
+sample members regarding the effect of Entrepreneurial Self-Efficacy on the performance
+of small businesses due to demographic variables.
+In order to test this hypothesis, the Mann-Whitney and Kruskal-Wallis tests were used
+(because the data did not follow a normal distribution).
+We used the Mann-Whitney test for the variable of gender. Concerning the variables of
+age, Educational level, and field of study, we used the Kruskal-Wallis test. Here, the
+hypothesis is accepted if the significance level is less than or equal to 0.05.
+Table 7. Mann-Whitney test for the significance of the differences in the answers of the
+sample members regarding the effect of Entrepreneurial Self-Efficacy on the performance of
+small business due to gender
+Variable N Average
+rank
+Mann-
+Whitney U
+Significance
+level
+male 111 68.37
+gender
+1373.000 0.000
+female 25 69.08
+Source: Own calculations based on spss output.
+It is clear from Table 7 that the level of significance for the mean of the respondents'
+ranks for the variable of gender was estimated at 0.000, thus it is statistically significant at
+the level of significance of 0.05, which means that there are statistically significant
+Table 8. Kruskal Wallis test for the significance of the differences in the answers of the sample
+members regarding the effect of Entrepreneurial Self-Efficacy on the performance of small
+business due to age, Educational level, and field of study
+Variable Categories 𝐗𝟐 df Sig.
+less than 26
+26-30
+31-35
+Age
+5.849 5 0.321
+36-40
+41-45
+over 45
+Elementary or less
+preparatory
+Educational level
+secondary
+6.440 4 0.169
+professional
+university
+Economic and management sciences
+natural sciences
+Field of study
+technology
+2.171 4 0.704
+legal sciences
+human and social sciences
+Source: Own calculations based on spss output.
+
+## Page 9
+The effect of entrepreneurial self-efficacy… 75
+differences (at the level of α ≤ 0.05) in the effect of Entrepreneurial Self-Efficacy on the
+performance of small businesses due to gender. Therefore, this hypothesis is accepted
+concerning the variable of gender.
+It is clear from Table 8 that there are no statistically significant differences (at the level
+of α ≤ 0.05) in the answers of the sample members regarding the effect of Entrepreneurial
+Self-Efficacy on the performance of the small business in Skikda due to the variables of
+age, as well as educational level, and the field of study. Therefore, this hypothesis is rejected
+about to the variables of age, Educational level, and the field of study.
+Hypothesis 5 (Main hypothesis)
+H5: There is a statistically significant effect at the 0.05 level of significance for the
+Entrepreneurial Self-Efficacy on the performance of the small business in Skikda.
+Table 9. The result of a multiple regression analysis to test the effect of the Entrepreneurial
+Self-Efficacy on the performance of small business in Skikda
+Axis R R2 F value sig
+Main Hypothesis 0.526 0.277 16.828 0.000
+Source: Own calculations based on the output of the program SPSS.
+The table above shows that there is an effect of the Entrepreneurial Self-Efficacy on the
+performance of the small business in Skikda (this result synchronizes with the results of
+Srimulyani, Hermanto, 2022; Zubair et al., 2021; Shen et al., 2021), as the correlation
+coefficient reached (0.526) at a level of significance of 0,000 less than 0.05, while the
+determination coefficient reached (0.277), means its value (27.7%) of changes in the
+performance of the small business in Skikda resulting from the change in the level of the
+Entrepreneurial Self-Efficacy. The significance of this effect confirms the value of F
+(16.828), which is a function at a level less than 0.05, and this confirms the validity of the
+main hypothesis, which says: there is a statistically significant impact at the 0.05 level of
+significance for the Entrepreneurial Self-Efficacy on the performance of the small business
+in Skikda.
+Through the collected values, the regression equation can be written in terms of the
+elements of entrepreneurial self-efficacy and improving performance levels in small
+enterprises in Skikda as follows:
+Y = 1.757 + 0.077 X1 + 0.315 X2 + 0.131 X3
+Where the variables of the equation are defined as follows:
+ Y: performance of small business in Skikda;
+ X1: individual beliefs;
+ X2: actions (needed to perform specific tasks);
+ X3: Cognitive resources.
+5. CONCLUSION
+The study examined the effect that entrepreneurial self-efficacy can add to the
+performance of small enterprises in the state of Skikda, Algeria, by studying the sub-effect
+
+## Page 10
+76 A. Messikh
+of dimensions (agreed in previous studies) of entrepreneurial self-efficacy on the overall
+performance of the studied sample.
+It can be seen in the first hypothesis that there is a statistically significant effect for the
+individual beliefs on the performance of small businesses in Skikda, whereas (13.8%) of
+changes in the level of small businesses performance in Skikda resulting from the change
+in the level of individual beliefs.
+In the second hypothesis, it can be seen that there is a statistically significant effect of
+the Cognitive resources on the performance of small businesses in Skikda, whereas (15.9%)
+of changes in the level of small business performance resulting from the change in the level
+of cognitive resources.
+The third hypothesis informs the readers also that there is a statistically significant effect
+of the actions on the performance of small businesses in Skikda, whereas (24.1%) of
+changes in the level of small business performance result from the change in the level of
+actions.
+As a conclusion, it can be seen that there is a statistically significant effect at the 0.05
+level of significance for the Entrepreneurial Self-Efficacy on the performance of the small
+business in skikda (this result synchronizes with the results of Srimulyani, Hermanto, 2022;
+Zubair et al., 2021; Shen et al., 2021; Klongthong et al. 2020), whereas (27.7%) of changes
+in the performance of the small business in Skikda resulting from the change in the level of
+the Entrepreneurial Self-Efficacy, Which calls for the need to work to enhance this
+efficiency for the owners of these businesses, especially in light of competition and the
+increase in the number of this type of business in Algeria.
+In this regard, the study recommends the necessity of increasing the ESE of individuals;
+as it is one of the most important factors affecting the entrepreneurial orientation on the one
+hand, and its effectiveness in raising the performance of small enterprises. Therefore, the
+Algerian government must focus the entrepreneurial support policies and strategies on
+raising this capacity through entrepreneurial awareness programs, as well as through
+entrepreneurial training, in addition to actual financial support for projects in a way that
+inspires confidence among individuals to embark on the entrepreneurial adventure.
+Our research fills this gap, particularly in the Algerian context, by claiming that
+entrepreneurial self-efficacy (ESE) affects the performance of the small business in Algeria.
+Furthermore, our research contributes to the advancement of knowledge in various streams
+of literature on the phenomena studied, including entrepreneurial self-efficacy and business
+performance, and suggests that small businesses can perform well through a strong
+entrepreneurial self-efficacy strategy. It also enhances ESE exposure and awareness, which
+helps to dispel any misunderstandings.
+Despite the author's efforts, this paper has some limitations. The sample size is the first
+constraint. To have a deeper grasp of the studied topic, future studies should employ a larger
+sample size. Second, the applicability and generality of our research findings to different
+types of business are unknown. A future study might give more exact explanations on the
+link between entrepreneurial self-efficacy and small business performance by using a model
+that includes certain moderators and mediator factors. Third, the study only looked at
+entrepreneurial self-efficacy as an independent variable; future studies could look into other
+aspects of entrepreneurial characteristics like (EO) dimensions, and overall performance of
+small and medium enterprises.
+
+## Page 11
+The effect of entrepreneurial self-efficacy… 77
+REFERENCES
+Akeke, N. I., Adetayo, H. O., Akeke, A. R., Oyebanji, M. O. (2021). Strategic Leadership And
+Performance Of Small And Medium Enterprises: The Role Of Strategic Interventions.
+„Modern Management Review”, 26(3).
+Algerian Official journal (2001), Law No. 01-18 containing the directive law for the promotion
+of small and medium-sized enterprises, No. 77, December 12 (in Arabic).
+Ayoub, M. (2017). The Role of Entrepreneurial Orientation in SME Entreprises Success Study
+of A Sample of Small and Medium Enterprises in Skikda-Algeria. An-Najah University
+Journal for Research-B (Humanities), 31(11).
+Bandura, A. (1977). Self-efficacy: toward a unifying theory of behavioral change.
+“Psychological review”, 84(2).
+—— (1993). Perceived self-efficacy in cognitive development and functioning.”Educational
+psychologist”, 28(2).
+Baron, R. A., Markman, G. D., Hirsa, A. (2001). Perceptions of women and men as
+entrepreneurs: evidence for differential effects of attributional augmenting. “Journal of
+Applied psychology”, 86(5).
+Boyd, N. G., Vozikis, G. S. (1994). The influence of self-efficacy on the development of
+entrepreneurial intentions and actions. “Entrepreneurship theory and practice”, 18(4).
+Christian, B. (1993). Business creation: epistemological contributions and modeling. Doctoral
+thesis in management sciences. Business administration. France: University of pierre
+Mendès. Grenoble II.
+Klongthong, W., Thavorn, J., Thanabodypath, W., Dhammathattariya, P., Chandrachai, A.
+(2020). The influence of entrepreneurial self-efficacy and innovation on firm performance:
+Evidence from Thai startup firms.”Humanities and Social Sciences Letters”, 8(4).
+Krueger Jr, N. F., Brazeal, D. V. (1994). Entrepreneurial potential and potential entrepreneurs.
+Entrepreneurship theory and practice, 18(3).
+Levander, A., Raccuia, I. (2001). Entrepreneurial Profiling. A Cognitive Approach to
+Entrepreneurship. Stockholm: Stockholm Business School.
+Maitlo, Q., Pacho, F. T., Liu, J., Bhutto, T. A., Xuhui, W. (2020). The role of entrepreneurial
+self-efficacy in resources acquisition in a new venture: the mediating role of effectuation.
+“SAGE Open”, 10(4), 2158244020963571.
+Messikh, A. (2017). the role of the entrepreneurial spirit in the sustainability of small and
+medium enterprises: Study of a sample of small and medium enterprises (entrepreneurs) in
+the state of Skikda, PhD thesis, Université du 20 Août 1955 (in Arabic).
+—— (2018). Le phénomène entrepreneurial:Un phénomène multidimensionnel. Editions
+universitaires européennes. Republic of Moldova.
+—— (2021). The Entrepreneurial Intention of Algerian Women (a Sample Study of Skikda
+University Female Students). JWEE, (3–4).
+Newman, A., Obschonka, M., Schwarz, S., Cohen, M., Nielsen, I. (2019). Entrepreneurial
+self-efficacy: A systematic review of the literature on its theoretical foundations,
+measurement, antecedents, and outcomes, and an agenda for future research. Journal of
+vocational behavior, 110.
+Oladimeji, M. S., Sofoluwe, N. A., Odunaya, H. A. (2021). Macroeconomic Business
+Environment and the Development of Small and Medium Enterprises in Nigeria. ”Modern
+Management Review”, 26(4).
+
+## Page 12
+78 A. Messikh
+Shen, Y., Wang, Q., Hua, D., Zhang, Z. (2021). Entrepreneurial learning, self-efficacy, and firm
+performance: exploring moderating effect of entrepreneurial orientation. „Frontiers in
+psychology”, 12.
+Srimulyani, V. A., Hermanto, Y. B. (2022). Impact of Entrepreneurial Self-Efficacy and
+Entrepreneurial Motivation on Micro and Small Business Success for Food and Beverage
+Sector in East Java, Indonesia. „Economies”, 10(1).
+Zubair, S. S., Khan, M. (2021). Entrepreneurial self-efficacy and small business performance in
+Pakistan. “Management Science Letters”, 11(6).
+DOI: 10.7862/rz.2022.mmr.12
+The text was submitted to the editorial office: April 2022.
+The text was accepted for publication: June 2022.

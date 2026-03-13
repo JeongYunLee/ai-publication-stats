@@ -1,0 +1,602 @@
+# Source
+/Users/jeongyunl/Library/Mobile Documents/com~apple~CloudDocs/HIKE_대학원/2026/대학원강의/문헌정보학통계분석/AI-publish/articles/Disclosing artificial intelligence use in scientific research and publication  When should disclosure be mandatory  optional  or unnecessary .pdf
+
+# PageCount
+14
+
+## Page 1
+Accountability in Research
+Ethics, Integrity and Policy
+ISSN: 0898-9621 (Print) 1545-5815 (Online) Journal homepage: www.tandfonline.com/journals/gacr20
+Disclosing artificial intelligence use in scientific
+research and publication: When should disclosure
+be mandatory, optional, or unnecessary?
+David B. Resnik & Mohammad Hosseini
+To cite this article: David B. Resnik & Mohammad Hosseini (2026) Disclosing artificial
+intelligence use in scientific research and publication: When should disclosure be
+mandatory, optional, or unnecessary?, Accountability in Research, 33:2, 2481949, DOI:
+10.1080/08989621.2025.2481949
+To link to this article: https://doi.org/10.1080/08989621.2025.2481949
+© 2025 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+Published online: 24 Mar 2025.
+Submit your article to this journal
+Article views: 26004
+View related articles
+View Crossmark data
+Citing articles: 33 View citing articles
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=gacr20
+
+## Page 2
+ACCOUNTABILITY IN RESEARCH
+VOL. 33, NO. 2, 2481949
+https://doi.org/10.1080/08989621.2025.2481949
+Disclosing artificial intelligence use in scientific research
+and publication: When should disclosure be mandatory,
+optional, or unnecessary?
+David B. Resnika and Mohammad Hosseini b
+aNational Institute of Environmental Health Sciences, National Institutes of Health, Durham, NC, USA;
+bDepartment of Preventive Medicine, Northwestern University Feinberg School of Medicine, Chicago,
+IL, USA
+ABSTRACT
+Currently there is a broad consensus among scholars that
+artificial intelligence (AI) tools can be used in research and
+publication, and that their use should be disclosed. Publishers
+and influential organizations, like the International Committee
+of Medical Journal Editors, have developed different and sometimes
+contradictory disclosure policies. We review some of
+these policies, examine the ethical reasons for disclosing AI
+use in research, and develop a framework for disclosure. We
+distinguish between mandatory, optional, and unnecessary
+disclosure of AI use, arguing that disclosure should be mandatory
+only when AI use is intentional and substantial. AI use is
+intentional when it is directly employed with a specific goal or
+purpose in mind. AI use is substantial when it 1) produces
+evidence, analysis, or discussion that supports or elaborates
+on the conclusions/findings of a study; or 2) directly affects the
+content of the research/publication. To support the application
+of our framework, we state three criteria for identifying substantial
+AI uses in research: a) using AI to make decisions that
+directly affect research results; b) using AI to generate content,
+data or images; and c) using AI to analyze content, data or
+images. Disclosure should be mandatory when AI use meets
+one of these criteria.
+ARTICLE HISTORY
+Received 24 November 2024
+Accepted 17 March 2025.
+KEYWORDS
+AI; ethics; disclosure;
+transparency; accountability
+Introduction
+More than two years after chatbots were first named as authors on
+scientific papers, the debate about using artificial intelligence (AI) in
+research and writing is taking a new turn. Initially, the debate focused
+on big-picture issues, such as whether it is ethical to use AI tools in
+writing scientific articles and whether AI tools can be named as authors
+(Hosseini, Rasmussen, and Resnik 2023; Hosseini, Resnik, and Holmes
+CONTACT Mohammad Hosseini mohammad.hosseini@northwestern.edu Department of Preventive
+Medicine, Northwestern University Feinberg School of Medicine, 680 N Lake Shore Dr Suite, Chicago, IL 1400, USA
+© 2025 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.
+org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is
+properly cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by
+the author(s) or with their consent.
+
+## Page 3
+2 D. B. RESNIK AND M. HOSSEINI
+2023).1 With a few exceptions,2 the scientific and scholarly community
+has reached a broad consensus that a) AI tools can be used in research
+and to assist scholars in specific tasks, such as copyediting and data
+analysis; b) AI tools cannot be named as authors because they cannot
+be held morally or legally responsible for their work; and c) the use of AI
+tools in research should be fully disclosed to promote transparency
+(COPE 2024; ICMJE 2024; Kaebnick et al. 2023). Now the debate has
+shifted toward working out the details of policies for disclosing the use of
+AI in scholarly publications (Ali et al. 2024; Mann et al. 2024; Suchikovaa
+and Tsybuliak 2024). However, developing workable policies may not be
+an easy task, because
+1) AI tools keep evolving and it is difficult to craft policies that apply to current
+and future uses. Shortly after release of OpenAI’s ChatGPT, we suggested policies
+that demanded full disclosure of all use cases of AI in scholarly publications,
+even in the absence of direct use of generated content (Hosseini, Rasmussen, and
+Resnik 2023). However, as will be discussed shortly, given the increasing prevalence
+of AI use and the integration of AI into other tools, not all use cases
+should be disclosed.
+2) In the past two years, publishers and authoritative organizations have developed
+different and sometimes contradictory disclosure policies. For example, while
+Springer notes that AI-assisted copyediting “does not need to be declared”
+(2023), Taylor & Francis requires that “any use” of AI must be clearly acknowledged
+2024). Furthermore, while the International Committee of Medical Journal
+Editors (ICMJE) recommends that “ . . . if AI was used for writing assistance,
+describe this in the acknowledgment section” (ICMJE 2024), the World
+Association of Medical Editors (WAME) encourages authors to detail the exact
+prompts used, identify the version and type of employed tools, and specify the role
+they played in the research process (WAME 2023). As will be discussed shortly,
+these disparities demonstrate different priorities that may be supported by various
+ethical reasons for disclosure.
+Accordingly, since what constitutes ethical disclosure is subject to change,
+and existing policies offer conflicting guidance, inconsistent disclosure
+practices probably exist and may continue to proliferate. Against this
+backdrop, researchers’ use of AI could flout policies and undermine
+ethical norms such as honesty, transparency, accountability, and the overall
+integrity of research. Our aim in this paper is to propose boundaries
+between mandatory disclosure, optional disclosure and permissible non-
+disclosure based on ethical considerations and provide practical guidance
+to support researchers in their ethical use of AI. To shed some light on
+this issue, it is worth considering the reasons why disclosure is important
+from an ethical point of view.
+
+## Page 4
+ACCOUNTABILITY IN RESEARCH 3
+Ethics of disclosure
+Disclosing the materials, methods, and tools used in research is a key aspect
+of good scientific practice because it accords with norms such as honesty,
+accountability, transparency, openness, rigor, objectivity, reproducibility,
+fairness, social responsibility, stewardship (prudent use of resources), and
+legality (compliance with legal rules). Science’s norms are standards of
+conduct and decision-making that are essential for producing knowledge,
+which is valuable for its own sake and for its practical and social applications.
+Scientific norms also promote cooperation and trust within the research
+community and between scientists and the public (Shamoo and Resnik
+2022). In what follows we mention several ways in which disclosure of the
+use of AI tools in research accords with scientific norms.
+First, disclosure of the use of AI tools helps to promote proper assignment
+of credit in scientific research, which is essential for fairness, honesty, and
+transparency in research. If an AI tool has been utilized to, for example,
+analyze the data or images in a publication, then AI’s contribution should be
+acknowledged so that humans will not receive credit for what AI did. Credit
+should be given where it is due, but not where it is not due (Shamoo and
+Resnik 2022). Giving credit to an AI tool does not imply that the tool is an
+author; it only implies that the tool made a substantial contribution to the
+content of the research. To be an author, one must not only make
+a substantial contribution to the work but also agree to take moral and
+legal responsibility for the work, which current AI tools cannot do because
+they lack human-like consciousness and moral agency (Hosseini, Resnik, and
+Holmes 2023).
+Second, disclosure of AI tools promotes accountability in research and
+scholarly publishing. Accountability, in turn, fosters social responsibility and
+legal compliance in research. If reviewers or readers discover a problem with
+a paper – for example, if it contains fabricated references or data, plagiarized
+text, or biased interpretations – it is important to know who is responsible
+for the problem so they can explain what happened, why/how it happened,
+and if necessary, bear the consequences (e.g., some form of punishment or
+reeducation). If the problem is due to improper use of an AI tool, detailed
+disclosure helps to identify human users responsible for the mishap or
+malfeasance, allowing steps to be taken to prevent this type of problem
+from arising in the future (Hosseini, Resnik, and Holmes 2023).
+Third, disclosure of the use of AI tools is important for promoting
+reproducibility of results (Ball 2023). Reproducibility is important for producing
+objective and reliable knowledge and is supported by several norms,
+including carefulness, rigor, objectivity, honesty, openness, and stewardship.
+For example, if an AI tool was used to provide a narrative review, extract data
+for a systematic review of the scientific literature, analyze quantitative or
+
+## Page 5
+4 D. B. RESNIK AND M. HOSSEINI
+qualitative data, or generate synthetic data or images, the use of the tool
+should be properly disclosed and carefully described so that other researchers
+can reproduce the results or findings of the research (Fabiano et al. 2024).
+While the outcomes of some AI tools such as generative AI, are not always
+reproducible, this limitation does not justify non-disclosure, because disclosure
+can help other scientists better understand the limitations of the tool. In
+this sense, the rationale for disclosing the use of AI tools is similar to the
+rationale for disclosing the use of other types of materials, methods, and tools
+in scientific research, such as software used for statistical analysis, survey
+implementation, or processing of text or data (Shamoo and Resnik 2022).
+Fourth, honest reporting of AI use facilitates the demarcation between
+human and machine contributions and enables researchers interested in
+metascience or history of science to better understand how AI is used in
+research and how the human-AI collaboration continues to evolve.
+Moreover, given the rapid evolution of AI tools, research on human-AI
+collaborations in knowledge production could positively affect the development
+of relevant and practical policies about use and disclosure of AI in
+research, thereby promoting honesty, openness, legality and social responsibility
+in research.
+Fifth, disclosure of the of the use of AI tools is important for promoting
+the trustworthiness and the overall integrity of research (Resnik and Hosseini
+2024). Disclosing when, how, and why AI tools were used foster trustworthiness
+by providing other researchers and the public with the information
+needed to better understand how these tools can contribute to research.
+While disclosure does not provide a window into the black box of AI, it
+can clarify the benefits and limitations of using AI (Zerilli, Bhatt, and Weller
+2022).
+We think it is important to carefully consider these different reasons for
+disclosing AI when developing disclosure policies because they have implications
+for the type of information and the level of details required for ethical
+disclosure. For example, if the main reason for disclosing AI use is to ensure
+that human authors do not receive more credit than they are due, then
+disclosure may not need to include many details about the AI use. If,
+however, the purpose of the disclosure is to promote reproducibility of
+data analysis, then disclosure may need to be highly detailed so that other
+researchers will have the information they need to reproduce the results.
+Rapid AI changes necessitate evolving and practical disclosure norms
+Because AI is rapidly becoming integrated into various computer applications
+(e.g., word processors and internet search engines) and research equipment
+(e.g., genome sequencers), disclosure policies must deal with
+a threshold issue, namely when should disclosure be mandatory. For example,
+
+## Page 6
+ACCOUNTABILITY IN RESEARCH 5
+many internet search engines now incorporate AI into their search algorithms
+and provide AI-generated answers to search queries (Morris 2024).
+Disclosing that one has used an internet search engine with this functionality
+to do some background research for a paper serves no useful purpose,
+because this AI use will not substantially impact issues related to credit
+assignment, accountability, reproducibility, or trustworthiness. Additionally,
+disclosing the use of AI in a search engine could distract and divert the
+reader’s attention from more important uses of AI, such as its use in drafting
+sections of the paper. Likewise, machines used in laboratory testing, such as
+automated genome sequencers, have incorporated AI into their operations to
+enhance efficiency and reliability (Vilhekar and Rawekar 2024). As long as
+the use of genome sequencing machine is disclosed, highlighting that the
+machine also uses AI does not seem to serve a useful purpose because the AI
+use is incidental and non-substantial.
+With preceding points in mind, we argue that for disclosure to serve
+a useful purpose, the AI use must be intentional and substantial. What do
+we mean by “intentional and substantial?” The term “intentional” is generally
+well-understood by scientists and the public. To do something intentionally
+is to do it with a purpose or goal in mind. AI use in research is intentional
+when one purposefully employs a unique AI tool to conduct a specific task.
+However, “substantial” is a vague term that requires further specification.3
+One need looking no further than journal authorship policies to see why this
+is the case. Most authorship guidelines require that authors have made
+a “substantial” or “significant” contribution to the research (ICMJE 2024);
+Resnik et al. 2016), but authorship disputes are still common in academia
+because researchers often disagree about what counts as a substantial or
+significant contribution (E. Smith et al. 2020).
+To make some headway on this problem, we will define “substantial” more
+clearly, provide criteria for identifying substantial uses of AI in research and
+offer some examples of such uses. In our view, AI use is substantial to the
+extent that it 1) produces evidence, analysis, or discussion that supports or
+elaborates on the conclusions (or findings) of a study; or 2) directly affects
+the content of the research or publication. Prior to prevalent use of AI tools,
+the scientific community had some generally accepted ideas about what types
+of contributions to a research project or publication might count as substantial
+(Shamoo and Resnik 2022). For example, there is general agreement
+among scientists that substantial contributions to research include such
+activities as formulating questions or hypotheses; designing or conducting
+experiments; collecting, analyzing, and interpreting data; creating figures or
+diagrams; and drafting or significantly revising manuscripts (Shamoo and
+Resnik 2022).
+While this framework has functioned well (for the most part), it needs to
+be updated to account for the use of AI tools in research. To take steps
+
+## Page 7
+6 D. B. RESNIK AND M. HOSSEINI
+toward addressing this challenge, we consulted the AI Use Taxonomy published
+by the National Institute of Standards and Technology (Theofanos,
+Choong, and Jensen 2024). While some AI uses in the taxonomy are not
+relevant to scientific research and publication (for example, using AI for
+vehicular automation), several are. We suggest that the following three
+criteria are relevant for identifying substantial uses of AI tools in research:
+(a) The AI tool makes decisions that directly affect research results. For
+example, using AI to extract data from articles to conduct a systematic
+review would be substantial and intentional because data extraction
+decisions affect the outcomes of the review.
+(b) The AI tool generates or synthesizes content, data or images. For
+example, using AI to write sections of a paper, integrate notes or
+other pieces of information, translate language in the paper, or create
+images or synthetic data would be substantial and intentional because
+AI has generated or synthesized new content that directly affect
+research outcomes.
+(c) The AI tool analyzes content, data or images. For example, using AI to
+analyze genomic data, text, or radiologic images would be both substantial
+and intentional because it produces analyses that supports
+findings and conclusions and affects the content of a publication.
+While this is an initial list that is subject to revision as the uses of AI in
+research and writing evolve, at this point, we believe that disclosure of AI use
+should be mandatory when it meets at least one of these criteria. However, as
+we have already discussed, there are numerous uses of AI that do not meet
+any of these criteria, so it is unclear whether disclosure in such cases would
+serve any useful purpose. For example, using AI to copyedit a paper for
+grammar, suggest synonyms or improve existing phrases, need not be disclosed
+because the tool does not affect the overall results; it simply edits or
+otherwise improves expressions provided by humans.
+Even so, some authors still might want to disclose AI use to avert questions
+about the integrity of their research that could arise if they do not
+disclose AI use and someone else discovers it later. Or some journal editors
+might prefer to have specific use cases disclosed (more on this in the
+discussion section under Disciplinary nuances). How should policies address
+this problem? We suggest that policies should distinguish between three
+situations: disclosure is mandatory; disclosure is optional; and disclosure is
+unnecessary. In Table 1 we provide some examples for each disclosure
+category based on existing use cases reported in Resnik and Hosseini
+(2024) and Hosseini et al. (2025). Specifically, the third option “to not
+disclose” may seem counterintuitive because generally, disclosure is considered
+as morally desirable – the more the better. However, we believe that
+
+## Page 8
+ACCOUNTABILITY IN RESEARCH 7
+Table 1. Disclosing AI use in research and writing.
+Disclosure is mandatory when, for example, using AI
+● To formulate questions or hypotheses, design and conduct experiments.
+● To draft parts of the paper, summarize, paraphrase, significantly revise or synthesize textual content.
+● To translate parts or the whole paper.
+● To collect, analyze, interpret or visualize data (quantitative or qualitative).
+● To extract data for review of the literature (systematic or not) and identify knowledge gaps.
+● To generate synthetic data and images reported in the paper or used in research.
+Disclosure is optional when, for example, using AI
+● To edit existing text for grammar, spelling or organization.
+● To find references or verify the relevance of human-found references.
+● To find and generate examples for existing content.
+● To brainstorm and offer suggestions for the organization of a paper or the title of a paper/section.
+● To validate and/or offer feedback on existing ideas, text and code.
+Disclosure is unnecessary when, for example, using AI
+● To suggest words or phrases that enhance clarity/readability of an existing sentence.
+● In part of a larger operation where AI is not generating or synthesizing content or making research
+decisions; for example, when AI is integrated into other systems/machines.
+● As a digital assistant, for example, to help organize and maintain a project’s digital assets and
+workflows.
+trivial disclosures (e.g., “I used AI to find an example”) can be distracting and
+may mislead the reader when they are numerous (e.g., when there are 25
+trivial uses, the one significant use does not stand out). Also, trivial disclosures
+may ultimately deter disclosure because they are burdensome.
+Discussion and conclusion
+Where to disclose and what to include?
+Other important questions that disclosure policies should address include
+where disclosures should occur, and what type of information should be
+disclosed. As discussed in a previous publication (Hosseini, Resnik, and
+Holmes 2023), AI use should be disclosed in the main text of the paper
+(e.g., in the introduction or methods section to describe how it was used),
+among the references (to improve indexing and findability) and in supplementary
+materials or appendices (to share used prompts or screenshots).
+Some journals have started a new dedicated section for AI disclosures. For
+example, Heliyon, a Cell Press journal states the following in their guide for
+authors:
+The use of generative AI and AI-assisted technologies in scientific writing must be
+declared by adding a statement at the end of the manuscript when the paper is first
+
+## Page 9
+8 D. B. RESNIK AND M. HOSSEINI
+submitted. The statement will appear in the published work and should be placed
+in a new section before the references list. An example:
+● Title of new section: Declaration of generative AI and AI-assisted
+technologies in the writing process.
+● Statement: During the preparation of this work the author(s) used
+[NAME TOOL/SERVICE] in order to [REASON]. After using this
+tool/service, the author(s) reviewed and edited the content as needed
+and take(s) full responsibility for the content of the published article.
+The declaration does not apply to the use of basic tools, such as tools used to check
+grammar, spelling and references. If you have nothing to disclose, you do not need
+to add a statement.
+(Heliyon n.d.)
+We believe that this is good practice that enhances the findability of disclosure
+statements and can potentially result in more standardized disclosures.
+However, disclosure in the acknowledgments section is not encouraged
+because this section has been traditionally used to acknowledge human
+contributors who do not meet the criteria for authorship (Hosseini and
+Lewis 2020). Here too, we see inconsistencies between ICMJE and WAME.
+While ICMJE suggests that AI use for data analysis should be disclosed in the
+methods section, WAME recommends disclosure in “both the Abstract and
+the Methods section.” These differences can make it difficult for the research
+community to know exactly how to comply and where to disclose their use of
+AI, leading to varied and potentially inadequate disclosures depending on
+what is considered as the gold standard. This may become a particularly
+challenging issue when navigating (re)submissions to journals that endorse
+WAME or ICMJE recommendations. Adapting to these varied levels of
+transparency underscores the complexity of complying with evolving and
+sometimes conflicting editorial policies on AI use and disclosure, emphasizing
+the need to harmonize disclosure policies.
+The place of disclosure and type of information needed to satisfy policies
+depend, in part, on the purposes of the disclosure and the best practices
+within a research domain. For example, if the purpose of disclosure is to
+allow other researchers to reproduce a systematic review of the literature
+conducted by AI, then extensive details related to the methodology of the
+review may need to be disclosed, including the databases searched, the search
+terms, rules for determining the relevance of publications, and so on
+(Fabiano et al. 2024). Furthermore, if the purpose of disclosing the use of
+AI for data analysis in a manuscript’s abstract (as WAME suggests) is to
+ensure more accurate indexing of AI use, accurate in-text citation and
+referencing of AI tools can achieve the same objective.
+
+## Page 10
+ACCOUNTABILITY IN RESEARCH 9
+Disciplinary nuances
+In some contexts, disclosure might require unique considerations. For
+instance, in domains where the originality of a publication is determined
+through the uniqueness of written expressions, journal editors might have
+different preferences regarding the use and disclosure of AI for the purpose
+of text improvement. It is for this reason that we suggested the disclosure of
+AI use “To edit writing for grammar, spelling, organization, or clarity” be
+optional – because this is context-specific. The same can be said about using
+AI to generate hypothetical cases for discussion, counter examples, or
+thought experiments. In domains like philosophy or theoretical physics, a
+counter example or thought experiment could be extremely valuable for
+supporting or critiquing arguments. Again, for this reason, we suggested
+that disclosing the use of AI to generate examples should be optional. On
+that basis, a worthwhile avenue for future research would be to survey
+journal editors and experts from different scholarly domains to better understand
+their views about the feasibility and merits of different disclosure
+policies.
+Visibility of disclosure statements to peer reviewers
+We believe that in instances where disclosures are deemed optional (e.g.,
+to edit writing for grammar, spelling, organization, or clarity), revealing
+AI use to peer reviewers could contribute to biases and compromise the
+integrity of the peer review process. Accordingly, if authors have disclosed
+their use of AI (and the disclosure is optional or not necessary), this
+should be kept from the reviewers to minimize the likelihood of biased
+assessments of manuscripts. This is especially a valid concern because of
+reported biases against non-native English authors in the peer review
+system (Amano et al. 2023; Hadan et al. 2024; O. M. Smith et al. 2023).
+Disclosing AI use could prompt reviewers that author(s) were working/
+writing in a second language and inadvertently affect how their work is
+assessed. It should also be noted that there is precedent for non-disclosure
+of certain information to peer-reviewers, such as details about funding or
+conflicting interests. However, we recognize that non-disclosure of AI use
+to reviewers may also pose problems, since a reviewer who strongly
+suspects that AI was used to edit or organize a paper but does not see
+that this use was disclosed, may be biased against the paper. Thus, this
+topic bears further study. It might be useful, for example, to survey
+scientists and editors concerning their opinions on this issue.
+
+## Page 11
+10 D. B. RESNIK AND M. HOSSEINI
+Keep calm and let your position evolve
+In closing, we would like to note that the use of AI in research continues
+to evolve in response to advancements in this technology. In only a few
+short years, the debate has evolved from whether AI tools should be used
+in research and writing, to how they should be used and disclosed. These
+shifts have rightly affected policies. For example, 2023 was the first time
+when the ICMJE mentioned generative AI and suggested “Authors who
+use such technology should describe, in both the cover letter and the
+submitted work, how they used it” (ICMJE 2023). In their 2024 recommendations,
+the ICMJE further clarified this position by adding examples
+“For example, if AI was used for writing assistance, describe this in the
+acknowledgment section. If AI was used for data collection, analysis, or
+figure generation, authors should describe this use in the methods.”
+WAME’s reaction to generative AI has also evolved. Their January 2023
+(Version 1) recommendations (Zielinski, Winker, Aggarwal, Ferris,
+Heinemann, Lapeña Florencio, Pai, Ing, and Citrome 2023a) were followed
+by another one (Version 2) published in May 2023 (Zielinski,
+Winker, Aggarwal, Ferris, Heinemann, Lapeña Florencio, Pai, Ing,
+Citrome, Murad, et al. 2023b). Version 1 broadly encouraged authors to
+acknowledge generative AI use and provide necessary details, but Version
+2 required authors to mention the used prompts, identify the version and
+type of AI tool employed, and specify the role it played in the research
+process. Among journals, Science is an interesting example. Between
+January and November 2023, the journal of Science transitioned from
+outright banning the use of generative AI (Thorp 2023), to allowing its
+use for “the writing or presentation of the manuscript” if there is full
+disclosure (Thorp and Vinson 2023). As mentioned in the introduction,
+we have changed our position from disclose all use cases, to the current
+position of disclose some but not all use cases. We see this as a healthy
+attitude toward a moving target. It is important, therefore, to be aware of
+technological changes, stay abreast of emerging ethical issues, and update
+guidance appropriately.
+Notes
+1. We realize that AI is a broad term that includes many types of machines that can learn
+from data. In this commentary, we are primarily focused on systems that use machine
+learning.
+2. Some authors still argue that AIs can be named as authors (Abernethy 2024; Jenkins
+and Lin 2023).
+3. Mann et al. (2024) define what is meant for a human to make a substantial contribution
+when AI is used, but they do not clarify what is meant for an AI tool to make
+a substantial contribution.
+
+## Page 12
+ACCOUNTABILITY IN RESEARCH 11
+Acknowledgments
+We wish to thank and acknowledge the valuable feedback offered by two anonymous
+reviewers.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+Funding
+The work was supported by the Intramural Research Program [The intramural program of
+the NIH.]; National Center for Advancing Translational Sciences [UM1TR005121]. The views
+and opinions expressed hear do not represent the views and opinions of the NIH or US
+government.
+Author contributions
+Both authors conceived of the research and drafted and edited the manuscript.
+ORCID
+Mohammad Hosseini http://orcid.org/0000-0002-2385-985X
+References
+Abernethy, N. J. 2024. “Let Stochastic Parrots Squawk: Why Academic Journals Should Allow
+Large Language Models to Coauthor Articles.” AI and Ethics. https://doi.org/10.1007/
+s43681-024-00575-7 .
+Ali, A. E., K. P. Venkatraj, S. Morosoli, L. Naudts, N. Helberger, and P. Cesar. 2024.
+“Transparent AI Disclosure Obligations: Who, What, When, Where, Why, How.” CHI
+EA ’24: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems
+(342): 1–11. https://doi.org/10.1145/3613905.3650750 .
+Amano, T., V. Ramírez-Castañeda, V. Berdejo-Espinola, I. Borokini, S. Chowdhury,
+M. Golivets, J. D. González-Trujillo, F. Montaño-Centellas, K. Paudel, R. L. White. 2023.
+“The Manifold Costs of Being a Non-Native English Speaker in Science.” PLOS Biology
+21 (7): e3002184. https://doi.org/10.1371/journal.pbio.3002184 .
+Ball, P. 2023. “Is AI Leading to a Reproducibility Crisis in Science?” Nature. December 5,
+2023. https://www.nature.com/articles/d41586-023-03817-6 .
+COPE (Committee on Publication Ethics). 2024. “Authorship and AI Tools.” Accessed
+November 20, 2024. https://publicationethics.org/cope-position-statements/ai-author .
+Fabiano, N., A. Gupta, N. Bhambra, B. Luu, S. M. Wong, J. G. Fiedorowicz, A. L. Smith,
+M. Solmi, and M. Solmi. 2024. “How to Optimize the Systematic Review Process Using AI
+Tools.” Journal of Child Psychology and Psychiatry Advances 4 (2): e12234. https://doi.org/
+10.1002/jcv2.12234 .
+Hadan, H., D. M. Wang, R. H. Mogavi, J. Tu, L. Zhang-Kennedy, and L. E. Nacke. 2024. “The
+Great AI Witch Hunt: Reviewers’ Perception and (Mis)conception of Generative AI in
+
+## Page 13
+12 D. B. RESNIK AND M. HOSSEINI
+Research Writing.” Computers in Human Behavior Artificial Humans 2 (2): 100095. https://
+doi.org/10.1016/j.chbah.2024.100095 .
+Heliyon. n.d. “Guide for Authors.” Accessed February 11, 2025. https://www.cell.com/heli
+yon/guide-for-authors .
+Hosseini, M., S. P. J. M. Horbach, K. Holmes, and T. Ross-Hellauer. 2025. “Open Science at
+the Generative AI Turn: An Exploratory Analysis of Challenges and Opportunities.”
+Quantitative Science Studies 6:22–45. https://doi.org/10.1162/qss_a_00337 .
+Hosseini, M., and J. Lewis. 2020. “The Norms of Authorship Credit: Challenging the
+Definition of Authorship in the European Code of Conduct for Research Integrity.”
+Accountability in Research 27 (2): 80–98. https://doi.org/10.1080/08989621.2020.1721288 .
+Hosseini, M., L. M. Rasmussen, and D. B. Resnik. 2023. “Using AI to Write Scholarly
+Publications.” Accountability in Research 31 (7): 715–723. https://doi.org/10.1080/08989621.
+2023.2168535 .
+Hosseini, M., D. B. Resnik, and K. Holmes. 2023. “The Ethics of Disclosing the Use of
+Artificial Intelligence Tools in Writing Scholarly Manuscripts.” Research Ethics 19 (4):
+449–465. https://doi.org/10.1177/17470161231180449 .
+ICMJE (International Committee of Medical Journal Editors). 2023. “Defining the Roles of
+Authors and Contributions.” Accessed February 14, 2025. https://www.icmje.org/news-and
+-editorials/updated_recommendations_may2023.html .
+ICMJE (International Committee of Medical Journal Editors). 2024. “Defining the Roles of
+Authors and Contributions.” Accessed November 20, 2024. https://www.icmje.org/recom
+mendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-
+contributors.html .
+Jenkins, R., and P. Lin. 2023. “AI-Assisted Authorship: How to Assign Credit in Synthetic
+Scholarship.” Accessed November 20, 2024. https://doi.org/10.2139/ssrn.4342909 .
+Kaebnick, G. E., D. C. Magnus, A. Kao, M. Hosseini, D. Resnik, V. Dubljević, C. Rentmeester,
+B. Gordijn, and M. J. Cherry. 2023. “Editors’ Statement on the Responsible Use of
+Generative AI Technologies in Scholarly Journal Publishing.” The Hastings Center Report
+53 (5): 3–6. https://doi.org/10.1002/hast.1507 .
+Mann, P. S., A. A. Vazirani, M. Aboy, B. D. Earp, T. Minssen, I. G. Cohen, and J. Savulescu.
+2024. “Guidelines for Ethical Use and Acknowledgement of Large Language Models in
+Academic Writing.” Nature Machine Intelligence. https://doi.org/10.1038/s42256-024-
+00922-7 .
+Morris, A. 2024. What Google AI Means for You—And Your Search Results. Northwestern
+Now. May 17, 2024. https://news.northwestern.edu/stories/2024/05/what-google-ai-means-
+for-you-and-your-search-results/ .
+Resnik, D. B., and M. Hosseini. 2024. “The Ethics of Using Artificial Intelligence in Scientific
+Research: New Guidance Needed for a New Tool.” AI and Ethics. https://doi.org/10.1007/
+s43681-024-00493-8 .
+Resnik, D. B., A. M. Tyler, J. R. Black, and G. E. Kissling. 2016. “Authorship Policies of
+Scientific Journals: Table 1.” Journal of Medical Ethics 42 (3): 199–202. https://doi.org/10.
+1136/medethics-2015-103171 .
+Shamoo, A. E., and D. B. Resnik. 2022. Responsible Conduct of Research. 4th ed. New York,
+NY: Oxford University Press.
+Smith, E., B. Williams-Jones, Z. Master, V. Larivière, C. R. Sugimoto, A. Paul-Hus, M. Shi,
+and D. B. Resnik. 2020. “Misconduct and Misbehavior Related to Authorship
+Disagreements in Collaborative Science.” Science and Engineering Ethics 26 (4):
+1967–1993. https://doi.org/10.1007/s11948-019-00112-4 .
+Smith, O. M., K. L. Davis, R. B. Pizza, R. Waterman, K. C. Dobson, B. Foster, J. C. Jarvey,
+L. N. Jones, W. Leuenberger, N. Nourn. 2023. “Peer Review Perpetuates Barriers for
+
+## Page 14
+ACCOUNTABILITY IN RESEARCH 13
+Historically Excluded Groups.” Nature Ecology & Evolution 7 (4): 512–523. https://doi.org/
+10.1038/s41559-023-01999-w .
+Springer. 2023. “Editorial Policies | Artificial Intelligence (AI).” Accessed November 20, 2024.
+https://www.springer.com/gp/editorial-policies/artificial-intelligence–ai-/25428500 .
+Suchikovaa, Y., and N. Tsybuliak. 2024. “ChatGPT isn’t an Author, but a Contribution
+Taxonomy is Needed.” Accountability in Research: 1–6. https://doi.org/10.1080/08989621.
+2024.2405039 .
+Taylor & Francis. 2024. “AI Policy.” Accessed November 20, 2024. https://taylorandfrancis.
+com/our-policies/ai-policy/ .
+Theofanos, M., Y. Y. Choong, and T. Jensen. 2024. “NIST AI Use Taxonomy.” National
+Institute of Standards and Technology. Accessed November 20, 2024. https://nvlpubs.nist.
+gov/nistpubs/ai/NIST.AI.200-1.pdf .
+Thorp, H. H. 2023. “ChatGPT is Fun, but Not an Author.” Science 379 (6630): 313. https://
+doi.org/10.1126/science.adg7879 .
+Thorp, H. H., and V. Vinson. 2023. “Change to Policy on the Use of Generative AI and Large
+Language Models.” Science Editor’s Blog. Accessed November 20, 2024. https://www.
+science.org/content/blog-post/change-policy-use-generative-ai-and-large-language-models .
+Vilhekar, R. S., and A. Rawekar. 2024. “Artificial Intelligence in Genetics.” Cureus 16 (1):
+e52035. https://doi.org/10.7759/cureus.52035 .
+WAME (World Association of Medical Editors). 2023. “Chatbots, Generative AI, and
+Scholarly Manuscripts. ”Accessed November 20, 2024. https://wame.org/page3.php?id=
+106 .
+Zerilli, J., U. Bhatt, and A. Weller. 2022. “How Transparency Modulates Trust in Artificial
+Intelligence.” Patterns 3 (4): 100455. https://doi.org/10.1016/j.patter.2022.100455 .
+Zielinski, C., M. Winker, R. Aggarwal, L. Ferris, M. K. Heinemann, J. Lapeña Florencio,
+S. Pai, E. Ing, and L. Citrome. January 20, 2023a. WAME Recommendations on ChatGPT
+and Chatbots in Relation to Scholarly Publications. https://wame.org/page3.php?id=110 .
+Zielinski, C., M. Winker, R. Aggarwal, L. Ferris, M. K. Heinemann, J. Lapeña Florencio,
+S. Pai, E. Ing, L. Citrome, A. Murad. May 31, 2023b. WAME Recommendations on Chatbots
+and Generative Artificial Intelligence in Relation to Scholarly Publications. https://wame.
+org/page3.php?id=106.

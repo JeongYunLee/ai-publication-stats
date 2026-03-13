@@ -1,0 +1,276 @@
+# Source
+/Users/jeongyunl/Library/Mobile Documents/com~apple~CloudDocs/HIKE_대학원/2026/대학원강의/문헌정보학통계분석/AI-publish/articles/Editors’ Statement on the Responsible Use of Generative AI Technologies in Scholarly Journal Publishing.pdf
+
+# PageCount
+6
+
+## Page 1
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+HHS Public Access
+Author manuscript
+Am J Bioeth . Author manuscript; available in PMC 2024 July 02.
+Published in final edited form as:
+Am J Bioeth . 2024 March ; 24(3): 5–8. doi:10.1080/15265161.2023.2292437.
+Editors’ Statement on the Responsible Use of Generative AI
+Technologies in Scholarly Journal Publishing
+Gregory E. Kaebnicka
+, David Christopher Magnusb
+, Audiey Kaoc
+, Mohammad Hosseinid
+,
+David Resnike
+, Veljko Dubljevićf
+, Christy Rentmeesterc
+, Bert Gordijng
+, Mark J. Cherryh
+aThe Hastings Center
+bStanford University
+cAmerican Medical Association
+dNorthwestern University
+eNIEHS
+fNorth Carolina State University
+gDublin City University
+hSt Edwards University School of Humanities
+The new generative artificial intelligence (AI) tools, and especially the large language
+models (LLMs) of which ChatGPT is the most prominent example, have the potential to
+transform many aspects of scholarly publishing. How the transformations will play out
+remains to be seen, both because the different parties involved in the production and
+publication of scholarly work are still learning about these tools and because the tools
+themselves are still in development, but the tools have a vast range of potential uses. Authors
+are likely to use generative AI to conduct research, frame their thoughts, produce data,
+search for ways of articulating their thoughts, develop drafts, generate text, revise their
+writing, and create visuals. Peer reviewers might use AI to help them produce their reviews.
+Editors might use AI in the initial editorial screening of manuscripts, to locate reviewers, or
+for copyediting.
+We are editors of bioethics and humanities journals who have been contemplating the
+implications of this ongoing transformation. We believe that generative AI may pose a threat
+to the goals that animate our work but could also be valuable for achieving those goals. We
+do not pretend to have resolved the many social questions that we think generative AI raises
+CONTACT Gregory E. Kaebnick ✉ kaebnickg@thehastingscenter.org The Hastings Center, Garrison, NY, USA.
+This statement is being copublished simultaneously by other journals affiliated with the authors. The statements are identical except
+for minor stylistic, spelling, and formatting differences in keeping with each journal’s style.
+Signatories: Karen J. Maschke, The Hastings Center; Lisa M. Rasmussen, UNC Charlotte; Laura Haupt, The Hastings Center; Udo
+Schuklenk, Queen’s University; Ruth Chadwick, Cardiff University; and Debora Diniz, Wissenchaftskolleg
+This article was originally published with errors, which have now been corrected in the online version. Please see Correction (http://
+dx.doi.org/10.1080/15265161.2024.2311042)
+DISCLOSURE STATEMENT
+No potential conflict of interest was reported by the author(s).
+
+## Page 2
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Kaebnick et al. Page 2
+for scholarly publishing, but in the interest of fostering a wider conversation about these
+questions, we have developed a preliminary set of recommendations about generative AI in
+scholarly publishing. We hope that the recommendations and rationales set out here will help
+the scholarly community navigate toward a deeper understanding of the strengths, limits,
+and challenges of AI for responsible scholarly work.
+RECOMMENDATIONS
+LLMs or Other Generative AI Tools Should Not Be Listed as Authors on Papers
+The argument usually given for prohibiting a generative AI tool from being listed as an
+author is that a requirement of morally responsible publishing is that authors must be
+accountable for what they write, and generative AI tools lack accountability (Hosseini,
+Rasmussen, and Resnik 2023; Hosseini, Resnik, and Holmes 2023; International Committee
+of Medical Journal 2023; Liebrenz et al. 2023; Lund et al. 2023; Teixeira and Tsigaris 2023).
+The publishing industry seems to have reached a consensus that this is a new norm for
+publishing, which creates a strong presumption in favor of acceptance. While arguments can
+be made that generative AI possesses some aspects of authorial accountability, such as the
+capacity to provide an account or explanation of how an article was created, the aspect of
+accountability that generative AI genuinely lacks is moral responsibility (Hosseini, Resnik,
+and Holmes 2023). Only persons can be morally responsible, and therefore, if authors must
+possess moral responsibility, then generative AI cannot be an author.
+This argument may seem to resolve the question of authorship by sheer stipulation: it
+accepts in principle that generative AI might (at least eventually) be able to generate content
+as well as human authors can, and it denies them authorial status by simply asserting
+that that role is reserved for full members of the moral community. The rationale for this
+stipulation is that it’s required to fulfill our journals’ mission. The goal of our journals is,
+in part, to foster a community of persons engaged in responsible thinking about ethical and
+social issues in health care and the biological sciences, not merely to generate publishable
+papers on those topics. The requirement for accountability is thus grounded both in an
+understanding of morally responsible publishing and in a goal of creating and protecting a
+community of people engaged in our work.
+Authors Should Be Transparent about Their Use of Generative AI, and Editors Should Have
+Access to Tools and Strategies for Ensuring authors’ Transparency
+There are many ways that authors might employ generative AI: to summarize literature,
+formulate ideas, organize outlines, produce drafts of text, or revise and refine text (Gordijn
+and ten Have 2023; Lund et al. 2023; Teixeira and Tsigaris 2023). Some possible uses do
+not seem significantly different from using internet searches, autocorrect tools, and grammar
+checks: authors might use generative AI to locate and understand scholarly material and
+draft text more efficiently. Other uses could influence content and style in novel ways. For
+example, authors might direct generative AI to propose questions that a paper might address,
+ideas that a paper might develop, possible outlines for a paper’s structure, or alternative
+phrasing for difficult or ambiguous passages. An author whose primary language is not
+English might employ generative AI to rewrite a draft and produce a more accessible final
+Am J Bioeth . Author manuscript; available in PMC 2024 July 02.
+
+## Page 3
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Kaebnick et al. Page 3
+version. In these cases, generative AI would serve to produce prompts, suggestions, or foils
+for the authors’ thinking. Yet other uses could raise difficult and maybe novel questions
+about how ideas and text have been produced and whether they rightly belong to the person.
+Imagine, for example, that an author used generative AI to mimic the substance and style of
+another scholar. Questions about plagiarism would arise in such a case, even if no specific
+passages could be traced to the other scholar.
+Authors who employ generative AI in developing papers should transparently disclose their
+use to editors, reviewers, and readers. Since generative AI is constantly changing and the
+scholarly community is only beginning to experiment with it, it is not prudent at this
+time to promulgate hard and fast rules for how generative AI should be disclosed. We
+recommend, however, that disclosure should describe how the AI was used and should
+identify AI-generated content. Authors should err on the side of too much transparency
+rather than too little: when in doubt, disclose. Some ways of disclosing the use of generative
+AI could include describing the use in a paper’s introduction, methods section, appendix, or
+supplemental material or citing the generative AI tool in the notes or references.
+Although editors must rely on authors to honestly and transparently disclose their use of
+generative AI, editors should have access (through their publishers or through other services)
+to tools that can detect whether generative AI was used (and potentially how it was used) in
+a submitted paper. As with tools that are employed to check for plagiarism, detection tools
+for generative AI are unlikely to be foolproof. Therefore, the ability of editors to continually
+draw upon a community of expert reviewers who can raise concerns about an author’s use of
+generative AI will also be essential.
+Fully transparent disclosure is important for several reasons:
+To Flag Potential Problems regarding the Accuracy of Information—For the time
+being, generative AI is extremely unreliable at offering accurate citations and often makes
+factual and reasoning errors. In the future, new versions of generative AI and add-ons
+may be more reliable, but existing systems are, as the name ChatGPT implies, generative
+transformers of information more than reliable reporters. Authors, readers, and reviewers
+need to be alerted to, and on guard against, the possible presence of erroneous information.
+To Understand the Origin of Potential Bias within Ideas—Generative AI tools may
+prove to be useful for helping authors collect, organize, and articulate their thoughts. When
+so used, the technology appears to be analogous to the online platforms and software that
+gather and analyze data for empirical research reports. Professional scholarly norms dictate
+that information about these tools be provided to help readers and reviewers evaluate a
+report. For example, it is common in survey research to cite the use of Qualtrics or REDCap
+for survey distribution as well as to specify uses of MTurk or specific panels used for survey
+recruitment. Software such as SPSS, Stata, or Prism are similarly cited when they are used
+as data analysis tools. Similarly, both for an empirical research report and for a paper that
+presents conceptual, philosophical analysis, explaining how generative AI has been used to
+help generate the paper might be necessary to help readers and reviewers evaluate it.
+Am J Bioeth . Author manuscript; available in PMC 2024 July 02.
+
+## Page 4
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Kaebnick et al. Page 4
+To Assess Ownership and Protect the Community of Scholars—Just as AI image
+generators can be trained on a visual artist’s work and asked to create images in that artist’s
+style, large language models can be trained (so-called fine-tuned) with a writer’s work
+and asked to generate text that mimics that writer, stylistically and substantively. In some
+cases, such uses will raise questions about plagiarism or intellectual property and about
+protecting the scholarly community. Creating a dialogue in the style of Plato’s Gorgias
+might be a creative and illuminating exercise for teaching, but generating a paper by training
+a large language model on the work and style of a living author could harm that author and
+undermine the community’s trust.
+To Support Public Deliberation about the Uptake of Generative AI—There
+are calls from many sources, including from some AI developers, for a broad public
+conversation about the design and public oversight of these tools, given their implications
+for the accuracy of shared information and the construction of ideas and considering
+their potential risks for professional communities. Whatever form such a broad public
+conversation might take, it depends on a high level of public transparency about the use of
+generative AI.
+Editors and Reviewers Should Not Rely Solely on Generative AI to Review Submitted
+Papers
+Any uses editors make of generative AI should also be transparent to authors and should
+not be the sole basis of reviewer recommendations or editorial decisions. One rationale
+for this proscription is again to safeguard the editors’ role in fostering a community of
+scholars who are in extended conversation with each other and together sustain and grow
+their own community of experts. For the time being, given the current state of development
+of generative AI tools, we do not believe that they are adequate as reviewers (National
+Institutes of Health 2023).
+However, just as with the creation of content, in the evaluation of a paper, generative AI
+might be used in a variety of ways; entirely replacing reviewers with AI is only the limit
+case. An editor might also ask an AI tool whether the concepts or arguments presented
+in an article have ever appeared in published material. Using AI in this way is similar to
+running a paper through plagiarism-detection software to determine whether blocks of text
+have previously been published, even though the use would be intended to gauge conceptual
+novelty, not to detect actual plagiarism.
+In light of the potential for improved efficiency and timeliness, there is likely to be pressure
+by publishers to rely increasingly on AI as a substitute for peer reviewers. Despite the many
+challenges and difficulties with peer review, we believe that a complete substitution should
+not take place and urge that publishers retain humans as the final arbiters in the review
+process.
+Am J Bioeth . Author manuscript; available in PMC 2024 July 02.
+
+## Page 5
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Kaebnick et al. Page 5
+Editors Retain Final Responsibility in Selecting Reviewers and Should Exercise Active
+Oversight of That Task
+It is also possible that generative AI could be used to identify peer reviewers for
+manuscripts. Given that many editors already rely on software to suggest peer reviewers
+and on algorithms to remove conflicts of interest and check for publications in the relevant
+areas, it would be unsurprising for AI to play a growing role in the editorial process.
+Again, using AI as a decision-support tool may be beneficial and save time. But replacing
+this editorial function with AI seems unwarranted, except under exceptional circumstances.
+There are advantages to having a person—an agent who has moral responsibility for the
+content of a journal—standing behind all editorial decisions. This has the potential to be
+lost in new publication models that have moved away from having an editor-in-chief role.
+It remains to be seen how a sense of editorial responsibility will be distributed in these new
+publishing models, though ethics audits and greater responsibility by the publisher combined
+with advisory boards of scholars have been explored.
+Final responsibility for the Editing of a Paper Lies with Human Authors and Editors
+In principle, copyeditors could employ generative AI to improve the language and style of
+a manuscript and to bring it into conformity with internal guidelines for formatting and
+references. Such uses do not appear to be substantively different from authors’ uses of AI
+to revise and refine a manuscript in the final stages of preparation, prior to submission. In
+keeping with the positions above, final responsibility for the text must lie with humans,
+however.
+TOWARD SHARED NORMS
+The stance set out here is consistent with those taken by the Committee on Publishing Ethics
+and many journal publishers, including those that publish or provide publishing services
+to the journals we edit. However, to our knowledge, previous position statements have not
+addressed the responsibilities of reviewers to authors (World Association of Medical Editors
+2023). Our stance differs from the position of Science magazine, which holds not only
+that a generative AI tool cannot be an author but also that “text generated by ChatGPT
+(or any other AI tools) cannot be used in the work, nor can figures, images, or graphics
+be the products of such tools” (Thorpe 2023). Such a proscription is too broad and may
+be impossible to enforce, in our view. Yet we recognize that the ethical issues raised by
+generative AI are complex, and we have struggled to decide how editors should promote
+responsible use of these technologies. Over time, we hope, the community of scholars will
+develop professional norms about the appropriate ways of using these new tools. Reviewers
+and readers, not just editors, will have much to say about these norms. The variety of ways
+in which generative AI technologies can be used and the pace of change may, in fact, render
+detailed editorial policy statements ineffective or impracticable. Instead, reliance on evolving
+professional norms based on broader public conversation about generative AI technologies
+may turn out to be the best way forward. Our shared statement is intended to promote this
+wider social discourse.
+Am J Bioeth . Author manuscript; available in PMC 2024 July 02.
+
+## Page 6
+Kaebnick et al. Page 6
+FUNDING
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+David Resnik’s contribution to this editorial was supported by the Intramural Research Program of the National
+Institute of Environmental Health Sciences (NIEHS) at the National Institutes of Health (NIH). Mohammad
+Hosseini’s contribution was supported by the National Center for Advancing Translational Sciences (NCATS)
+(through grant UL1TR001422). The funders have not played a role in the design, analysis, decision to publish, or
+preparation of the manuscript. Veljko Dubljevi c’s contribution was partially supported by the National Science
+Foundation (NSF) CAREER award (#2043612). This work does not represent the views of the NIEHS, NCATS,
+NIH, NSF, or U.S. government.
+REFERENCES
+Gordijn B, and ten Have H. 2023. ChatGPT: Evolution or revolution? Medicine, Health Care, and
+Philosophy 26 (1):1–2. doi: 10.1007/s11019-023-10136-0. [PubMed: 36656495]
+Hosseini M, Resnik DB, and Holmes K. 2023. The ethics of disclosing the use of artificial intelligence
+tools in writing scholarly manuscripts. Research Ethics doi: 10.1177/17470161231180449.
+Hosseini M, Rasmussen LM, and Resnik D. 2023. Using AI to write scholarly publications.
+Accountability in Research doi: 10.1080/08989621.2023.2168535.
+Hosseini R. Holmes. 2023. The ethics of disclosing the use of artificial intelligence tools in writing
+scholarly manuscripts.
+International Committee of Medical Journal Editors 2023. Recommendations for the conduct,
+reporting, editing, and publication of scholarly work in medical journals. https://www.icmje.org/
+icmje-recommendations.pdf.
+Liebrenz M, Schleifer R, Buadze A, Bhugra D, and Smith A. 2023. Generating scholarly content with
+ChatGPT: Ethical challenges for medical publishing. Lancet Digital Health 5 (3): e105–e106. doi:
+10.1016/S2589-7500(23)00019-5. [PubMed: 36754725]
+Lund BD, Wang T, Mannuru NR, Nie B, Shimray S, and Wang Z. 2023. ChatGPT and a new academic
+reality: Artificial intelligence-written research papers and the ethics of the large language models
+in scholarly publishing. Journal of the Association for Information Science and Technology 74 (5):
+570–81. doi: 10.1002/asi.24750.
+National Institutes of Health 2023. The use of generative artificial intelligence technologies is
+prohibited for the NIH peer review process. https://grants.nih.gov/grants/guide/notice-files/NOT-
+OD-23-149.html
+Teixeira JA, and Tsigaris P. 2023. Human and AI-based authorship: Principles and ethics. Learned
+Publishing 36 (3):453–62. doi: 10.1002/leap.1547.
+Thorp HH 2023. ChatGPT is fun, but not an author. Science 379 (6630):313. doi: 10.1126/
+science.adg7879. [PubMed: 36701446]
+World Association of Medical Editors 2023. Chatbots, generative AI, and scholarly manuscripts.
+https://wame.org/page3.php?id=106
+Am J Bioeth . Author manuscript; available in PMC 2024 July 02.

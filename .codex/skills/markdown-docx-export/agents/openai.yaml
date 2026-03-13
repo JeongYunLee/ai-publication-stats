@@ -1,4 +1,0 @@
-interface:
-  display_name: "Markdown DOCX Export"
-  short_description: "Export local Markdown files to editable DOCX using built-in macOS tooling"
-  default_prompt: "Convert the requested Markdown document to DOCX using the local markdown-to-DOCX skill and verify the result."

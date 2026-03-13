@@ -1,4 +1,0 @@
-interface:
-  display_name: "Markdown PDF Export"
-  short_description: "Export local Markdown files to PDF with built-in macOS tooling"
-  default_prompt: "Convert the requested Markdown document to PDF using the local markdown-to-PDF skill and verify the result."
