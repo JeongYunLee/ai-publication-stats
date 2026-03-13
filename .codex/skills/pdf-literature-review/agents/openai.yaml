@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF Literature Review"
+  short_description: "Extract local PDF text and record article relevance for the AI publishing project"
+  default_prompt: "Extract the local PDF papers, review their relevance for the AI publishing survey project, and leave structured notes under reviews/."

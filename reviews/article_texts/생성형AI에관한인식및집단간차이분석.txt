@@ -1,0 +1,495 @@
+# Source
+/Users/jeongyunl/Library/Mobile Documents/com~apple~CloudDocs/HIKE_대학원/2026/대학원강의/문헌정보학통계분석/AI-publish/articles/생성형AI에관한인식및집단간차이분석.pdf
+
+# PageCount
+7
+
+## Page 1
+Journal of Digital Convergence
+Vol. 22. No. 1, pp. 15-21, 2024
+ISSN 2713-6434 / eISSN 2713-6442
+https://doi.org/10.14400/JDC.2024.22.1.015
+생성형 AI에 관한 인식 및 집단간 차이 분석
+Analysis of Perceptions and Differences between Groups
+regarding Generative AI
+노규성(Kyoo-Sung Noh)
+요 약 본 연구는 생성형 AI의 활용 및 사용자 그룹 간 차이에 대한 인식을 분석하고자 하는 목적으로 가지고 있다.
+본 연구는 생성형 AI 사용자 그룹 간 차이에 대한 인식을 조사하여 각 사용자층에 대한 AI 활용 역량 증진을 위한 시사점
+을 도출하였다. 검증 결과, 연령별 집단 간에는 유의적인 차이가 없으며, 전문적 배경에 의한 집단 간에는 생성형 AI 활용
+분야와 생성형 AI의 윤리적 관점에서 유의미한 차이를 보였다. 이로 인해 본 연구는 전문 분야에 따라 다른 AI 솔루션
+제공 및 맞춤형 교육 훈련 필요성, 윤리적 고려에 대한 특별한 교육과 문화 형성 등에 대한 대안을 제시하였다. 또한 텍스
+트 마이닝 기법을 통해 연령대별, 전문 분야별로 다른 방식의 AI 활용 및 활용 역량 개발 교육 등을 제안하였다는 점에서
+학술적 기여를 했다고 사료된다.
+주제어 : 생성형 AI, 사용자 그룹, 활용 역량, 교육 훈련, 윤리적 고려, 인식 및 활용
+Abstract The purpose of this study is to analyze the use of generative AI and the perception of
+differences between user groups. This study explored the perceptions of different user groups regarding
+generative AI, aiming to derive implications for enhancing AI utilization capabilities for each group. Upon
+analysis, it was found that there were no significant differences in perceptions across age groups. However,
+notable differences were observed between professional backgrounds, particularly in the areas of generative
+AI application and ethical perspectives. Consequently, this study suggests the need for diversified AI solutions
+tailored to specific fields of expertise. It underscores the importance of customized education and training
+programs, as well as specialized education focused on ethical considerations. Additionally, this research
+contributes academically by proposing varied AI usage strategies for different age and professional groups. It
+also highlights the role of text mining techniques in developing and improving AI utilization skills.
+Key Words : Generative AI, user groups, utilization capabilities, education and training, ethical
+considerations, awareness and utilization.
+Received January 18, 2024 Revised March 10, 2024 Accepted March 20, 2024 Published March 28, 2024
+**한국소프트웨어기술인협회 회장(Chairman, Korea Association of Software Manpower, E-mail : ksnoh114@gmail.com)
+
+## Page 2
+16
+디지털융복합연구 제22권 제1호
+Ⅰ. 서론
+생성형 AI 분야는 기술적 이정표를 통해 빠르게 발전하
+고 있다. 이 발전은 머신러닝과 신경망의 진보에 기반을 두
+고 있으며, 기존 데이터에서 새로운 콘텐츠를 생성하는 방
+식으로 기계의 역할을 혁신적으로 바꾸고 있다. 이러한 혁
+신은 인공지능이 단순한 데이터 분석을 넘어 텍스트, 이미
+지, 영상까지 새로운 결과물을 창조하는 방향으로 나아가고
+있음을 반영한다[1].
+현재 생성형 AI는 다양한 분야에서 활용이 확산되고 있
+다. 교육에서는 학습 경험을 개인화하고, 비즈니스에서는
+의사결정 및 자동화를 향상시킨다. 창작 산업에서는 새로운
+예술 표현의 길을 열고 있다[2]. 이러한 광범위한 확산은 생
+성형 AI가 혁신을 촉진하고 생산성을 향상시키는 역할에 의
+해 이루어지고 있다.
+이러한 가운데 생성형 AI에 대한 인식은 낙관과 우려가
+섞인 복잡한 구조이다. 그 잠재력을 높이 평가하는가 하면,
+데이터 프라이버시와 일자리 대체 등 윤리적인 문제를 제기
+하기도 한다[3]. 그러나 많은 사용자들은 그 효과성에 대해
+높이 평가한다. 다양한 사용자 그룹이 생성형 AI를 어떻게
+인식하는지 이해하는 것은 활용에 대한 태도를 결정하는데
+있어 중요하다. 그런데 연령, 직업, 문화적 배경과 같은 요
+인들이 태도와 사용 패턴에 큰 영향을 미치기도 한다[4].
+와튼 스쿨의 Murray나 세일즈포스의 연구에 따르면, 응
+답자의 50% 이상이 생성형 AI를 사용하고 있으나 그 가치
+에 대해 잘 파악하지 못한 것으로 파악된다[5,6]. 업무에 활
+용함과 동시에 일자리 감소 우려도 갖고 있다. 한편 국내의
+경우에는 아직 학생들의 사용과 관련된 성과 및 인식 조사
+연구가 주류를 이루고 있다. 즉 다양한 계층이나 집단에 대
+한 연구는 미흡한 상황에서 생성형 AI 사용과 관련되는 집
+단별 인식의 비교분석을 통해 활용 활성화를 위한 대안 마
+련이 필요한 것으로 보인다.
+이에 본 연구는 생성형 AI의 활용 및 사용자 그룹 간 차
+이에 대한 인식을 분석하고자 하는 목적으로 가지고 있다.
+다양한 인구 통계 범위에서 수집한 설문 데이터를 바탕으
+로, 다양한 사용자 그룹이 이 혁신적인 기술과 어떻게 상호
+작용하고 생각하는지에 대한 통찰력을 얻을 수 있을 것이
+다. 이러한 연구목적 달성을 위해 본 연구는 문헌 연구, 설
+문조사 분석, 가설 검증을 통한 집단 간 차이에 대한 통계적
+분석, 분석 결과로부터 시사점 도출 및 사용자 중심의 권장
+사항 제안 등의 연구 방법으로 시행될 것이다.
+Ⅱ. 이론적 배경
+생성형 AI의 역사가 짧긴 하지만, 사용자들의 인식에 관
+한 연구는 다양한 형태로 이루어지고 있다. 주요 문헌을 분
+석해보면 다음과 같다.
+먼저 와튼 스쿨의 Murray의 연구에 따르면, 응답자의
+50% 이상이 이미 직장에서 생성형 AI를 사용하고 있으며,
+많은 사용 사례가 이미 탐색 중이거나 곧 탐색될 것으로 나
+타났다[5]. 그리고 세일즈포스(Salesforce)의 연구에 따르
+면, 서비스 종사자의 60%가 직장에서 생성형 AI의 가치를
+어떻게 끌어낼지 모르겠다고 답했다[7]. 응답자의 절반 이
+상이 기술을 효과적이거나 안전하게 사용하는 방법을 모르
+고 있다. 이러한 불확실성에도 불구하고, 48%는 생성형 AI
+사용법을 배우지 못하면 일자리를 잃을까 봐 걱정하고 있
+다.
+BCG의 생성형 AI에 관한 최근 조사에 따르면, 많은 리
+더들(54%)은 AI가 2024년에 비용 절감을 가져올 것으로
+예상하고 있다[8]. 이는 주로 운영, 고객 서비스 및 IT에서
+의 생산성 향상을 통한 것이다. 그러나 지금까지 단 6%의
+회사만이 직원들의 25% 이상을 생성형 AI 도구 사용에 대
+해 교육시켰다.
+한편 생성형 AI의 윤리적 측면에 관한 연구들은 생성형
+AI의 윤리적 함의부터 종합적인 안전 평가와 최선의 관행의
+필요성까지를 조명한다. 이 연구들은 정보에 입각하고 책임
+감 있는 사용, 윤리적 거버넌스, 위험을 완화하기 위한 표준
+및 프레임워크 개발의 중요성을 강조한다[9, 10, 11].
+한편 국내의 경우는 본격적으로 연구가 시작되고 있다고
+볼 수 있다. 먼저 오선경 등은 대학의 학부생을 대상으로 학
+술 글쓰기에서 생성형 AI, 특히 ChatGPT의 사용과 윤리적
+인식을 조사했다[7]. 대부분의 학생들은 보고서 작성에서
+아이디어 생성과 자료 수집을 위해 생성형 AI를 활용하고
+있었으며, 이 중 절반 이상이 AI 사용에 만족하고 있었다.
+그러나 인용 방법과 글쓰기 윤리에 대한 인식이 낮아, 이에
+대한 교육의 필요성이 강조되었다.
+이승훈은 생성형 AI를 활용한 문제중심학습과 관련하여
+학습자의 디지털 리터러시, 학습 경험, 그리고 성과를 조사
+했다[12]. 학생들의 생성형 AI의 활용은 디지털 리터러시를
+향상시킨다. 연구 결과 문제해결력과 정보기술 활용 능력의
+개선이 필요함을 발견했다.
+이금란의 연구는 Chat GPT를 사용한 후 대학생 33명의
+자기주도학습 역량과 인식 변화를 조사했다[13]. 사전-사후
+설문 결과, Chat GPT 사용 경험이 학생들의 인식을 긍정
+
+## Page 3
+적으로 바꾸었으며, 이는 통계적으로 유의미했다. 초기에는
+AI의 신뢰성과 타당성에 대한 우려가 있었지만, 사용 후에
+는 정보 제공과 편리성으로 인해 적극적 활용을 주장하는
+의견이 증가했다. 이는 Chat GPT의 교육적 활용 가능성과
+긍정적인 인식 변화를 보여준다.
+이용환의 연구는 대학생들을 대상으로 ChatGPT에 대한
+인식을 분석한 것이다[14]. 분석 결과, 대부분의 학생들이
+ChatGPT를 알고 있었고 절반 이상이 실제로 사용해 본 경
+험이 있었다. ChatGPT의 주요 사용 목적은 교육과 학습,
+호기심 해소, 특정 정보 얻기 등이었습니다. 또한, 사용 만
+족도는 높았으나 잘못된 정보 제공, 학습 능력 저하, 범죄
+악용 가능성 등의 단점도 지적되었다.
+최다혜 등의 연구는 생성형 AI 기술과 그 결과물의 활용
+에 대한 사용자의 인식과 태도를 탐색한 것이다[15]. 일반
+사용자와 디자인 관계자들이 참여한 이 조사에서 일반 사용
+자들은 대체로 생성형 AI에 대해 긍정적인 반응을 보였으
+나, 디자인 관계자들은 보다 부정적인 인식을 가진 것으로
+나타났다. 또한, 참여자들은 생성형 AI 결과물의 표절, 도
+용, 저작권 보호 문제에 대한 우려를 나타냈다.
+이상에서 볼 수 있듯이, 현재까지 이루어진 국내의 연구
+는 대부분 학생들의 사용과 관련된 것으로 한정되어 있다.
+특히 다양한 집단에 대한 인식의 비교 분석은 미흡한 상황이
+어서 이에 대한 심층적 연구가 필요한 상황이라 할 수 있다.
+Ⅲ. 연구방법 및 가설 설정
+1. 연구 방법
+본 연구는 본 연구는 이상의 문헌 연구의 분석 결과로 얻
+은 시사점을 바탕으로 사용자들의 속성(연령대, 전문적 배
+경)에 따라 생성형 AI에 대한 인식과 활용에 있어 차이를 보
+는지에 대한 설문 조사와 이 데이터에 대한 통계분석을 통
+해 유의성 검증을 하고 그에 대한 시사점을 도출하고자 한
+다. 이를 위한 연구는 문제 정의 → 데이터 수집 → 데이터
+전처리 → 데이터 분석 및 가설 검증 → 결과 해석 및 시사
+점 도출 순으로 진행된다.
+가장 먼저 정의된 문제를 해결하기 위해 생성형 AI 사용
+자들에 대한 활용 현황과 실태 조사를 실시한다. 조사 방법
+은 설문서를 통해 각계각층의 사용자들을 대상으로 관련되
+는 의견을 조사하는 것이다. 주요 설문 내용은 인구통계 및
+전문적 배경 조사, 생성형 AI에 대한 이해 정도, AI 사용시
+윤리적 고려사항에 대한 인식, 실무적 활용 역량 정도, 생성
+형 AI 역량 평가요소 등에 대한 것들이다. 특히 생성형 AI
+생성형 AI에 관한 인식 및 집단간 차이 분석 17
+활용 역량 평가와 관련되는 내용에 대한 조사에 중점을 두
+었다.
+[그림 1] Research Process
+설문 결과 데이터에 대한 분석은 기본적인 통계 분석, 변
+수간의 상관분석 및 평가요소의 발굴을 위한 분석 등으로
+이루어진다. 다만 기본적인 통계 분석 결과는 필요한 내용
+만 다룬다. 변수들의 관계 분석 과정에서 가설 검증이 이루
+어진다.
+본 연구는 [그림 2] 연구모델에서 볼 수 있듯이, 가설 검
+증을 위한 독립변수를 연령별 집단과 전문적 배경으로 정하
+였다. 그리고 종속변수는 생성형 AI 활용 빈도, 생성형 AI
+활용 분야, 생성형 AI 영향에 대한 인식, 생성형 AI 효과성
+에 대한 인식, 생성형 AI의 윤리적 관점, 생성형 AI 활용 역
+량 수준 등으로 정하였다. 종속변수는 선행연구들에서 생성
+형 AI 사용자들의 인식과 활용에 대해 주로 조사하는 내용
+들을 중심으로 6가지 관찰 가능한 개념(변수)을 선정하여
+정한 것이다.
+[그림 2] Research Model
+2. 변수의 조작적 정의 및 가설 설정
+연령별 집단을 독립변수로 정한 것은 연령별 차이의 중
+요성에 기인한다. 연령대가 다른 사람들은 기술에 대해 다
+르게 접근한다. 예를 들어, 젊은 세대는 새로운 기술에 더
+익숙할 수 있고, 노년층은 전통적인 방식을 선호할 수 있다.
+이런 차이들이 생성형 AI에 대한 인식과 활용에 어떻게 영
+향을 미치는지를 알아보는 것이 중요할 것이다.
+또한 전문적 배경을 독립변수로 정한 것은 다양한 전문
+적 배경이 기술에 대한 전문성과 접근 방식에서 차이를 가
+
+## Page 4
+18
+디지털융복합연구 제22권 제1호
+져오기 때문이다. 예를 들어, 기술 관련 분야의 사람들은 비
+기술 분야보다 생성형 AI를 사용하는 데 더 능숙하고 개방
+적일 수 있다. 이러한 차이는 다양한 전문직 그룹이 생성형
+AI의 효과성, 사용 용이성, 잠재력을 어떻게 인식하는지에
+큰 영향을 미칠 수 있다.
+이상의 개념의 조작화를 통해 독립변수와 종속변수를 정
+하고 이 변수들간의 관계를 조사하기 위해 설정한 가설은
+다음과 같다.
+1. 연령별 집단 간에는 생성형 AI에 관한 인식 및 활
+용에 있어 차이를 보일 것이다.
+1.1 연령별 집단 간에는 생성형 AI 활용 빈도에 있어
+차이를 보일 것이다.
+1.2 연령별 집단 간에는 생성형 AI 활용 분야에 있어
+차이를 보일 것이다.
+1.3 연령별 집단 간에는 생성형 AI 영향에 대한 인식
+에 있어 차이를 보일 것이다.
+1.4 연령별 집단 간에는 생성형 AI 효과성에 대한 인
+식에 있어 차이를 보일 것이다.
+1.5 연령별 집단 간에는 생성형 AI의 윤리적 관점에
+있어 차이를 보일 것이다.
+1.6 연령별 집단 간에는 생성형 AI 활용 역량 수준에
+있어 차이를 보일 것이다.
+2. 전문적 배경 집단간에는 생성형 AI에 관한 인식 및
+활용에 있어 차이를 보일 것이다.
+2.1 전문적 배경 집단 간에는 생성형 AI 활용 빈도에
+있어 차이를 보일 것이다.
+2.2 전문적 배경 집단 간에는 생성형 AI 활용 분야에
+있어 차이를 보일 것이다.
+2.3 전문적 배경 집단 간에는 생성형 AI 영향에 대한
+인식에 있어 차이를 보일 것이다.
+2.4 전문적 배경 집단 간에는 생성형 AI 효과성에 대
+한 인식에 있어 차이를 보일 것이다.
+2.5 전문적 배경 집단 간에는 생성형 AI의 윤리적 관
+점에 있어 차이를 보일 것이다.
+2.6 전문적 배경 집단 간에는 생성형 AI 활용 역량 수
+준에 있어 차이를 보일 것이다.
+Ⅳ. 통계분석 및 가설 검증
+1. 기본적인 통계분석
+15개 설문 문항으로 구성된 설문서는 구글 폼즈(forms)
+와 카카오톡을 활용하여 127명으로부터 응답을 받았다. 응
+답자는 연령층에서 50세 이상, 전문 경력 분야에서 교수가
+가장 많았다. 생성형 AI 사용 빈도는 필요 시 40.9%, 가끔
+28.8%, 자주 15.7%, 매우 자주 11.8% 순으로 나타났다.
+AI를 활용하여 해결되는 주요 문제 영역으로는 보고서 작
+성, 전략 계획 및 의사결정, 통계 및 데이터 분석 순으로 많
+은 것으로 나타났다. 그리고 생성형 AI가 미치는 영향에 대
+해서는 54.3%가 매우 큰 영향을, 33.9%가 어느 정도 영향
+을 미치는 것으로 조사되었다. 또한 생성형 AI의 효과성에
+대해서는 27.6%가 효과가 매우 큼, 56.7%가 효과 있음으
+로 평가해 대체로 생성형 AI의 효과는 있는 것으로 조사되
+었다.
+2. 가설 1에 대한 검증
+먼저 연령에 의한 집단간 차이분석을 위해 각 변수에 대
+해 카이제곱 검증(Chi-squared test)을 수행한 결과는 <표 1>
+과 같다. 이 검증은 연령대와 다른 변수들 간의 관계에 통계
+적으로 유의한 차이가 있는지를 평가한다. 이 표는 각 변수
+에 대한 카이제곱 통계량과 해당 통계량의 유의성을 나타내
+는 p-값(p-value)을 보여준다.
+<표 1> Chi-square test results for age groups
+Variable Chi-square p-value
+Frequency of AI Utilization 10.42 0.579
+AI Application Areas 102.95 0.867
+Perception of AI Impact 4.54 0.972
+Perception of AI Effectiveness 10.43 0.578
+Ethical Perspective 88.94 0.422
+Level of AI Utilization Competence 8.84 0.717
+<표 1>에서 볼 수 있듯이, 모든 변수에 대한 p-값이 0.05
+보다 크므로, 연령대에 따른 유의미한 차이는 없는 것으로 나
+타났다. 이에 따라 가설 1과 세부 가설 모두 기각된다. 이는
+연령대가 AI 활용 빈도, AI 활용분야, AI의 영향력 인식, AI
+효과성에 대한 인식, 윤리적 관점, 그리고 AI 활용 역량 수준
+과 통계적으로 유의한 관련이 없다는 것을 의미한다.
+3. 가설 2에 대한 검증
+전문적 배경을 기준으로 한 집단 간 차이에 대한 카이제
+곱 검증(Chi-squared test)을 수행한 결과는 <표 2>와 같
+다. <표 2>는 각 변수에 대한 카이제곱 통계량과 해당 통계
+
+## Page 5
+량의 유의성을 나타내는 p-값을 보여준다.
+<표 2> Chi-square test results for professional
+background group
+Variable Chi-square p-value
+Frequency of AI Utilization 58.78 0.137
+AI Application Areas 561.84 0.006
+Perception of AI Impact 20.39 0.999
+Perception of AI Effectiveness 32.76 0.954
+Ethical Perspective 412.55 0.010
+Level of AI Utilization Competence 46.76 0.523
+<표 2>에서 볼 수 있듯이, AI 활용분야와 윤리적 관점에
+서 p-값이 각각 0.006과 0.010으로 나타났다. 이는 0.05
+의 기준치보다 낮아, 전문적 배경에 따라 이들 분야에 대한
+인식에 통계적으로 유의한 차이가 있다는 것을 의미한다.
+다른 변수들에 대해서는 p-value가 0.05보다 크므로, 전문
+적 배경에 따른 유의미한 차이는 없는 것으로 나타났다. 이
+에 따라 ‘가설 2.2 전문적 배경 집단 간에는 생성형 AI 활용
+분야에 있어 차이를 보일 것이다’와 ‘가설 2.5 전문적 배경
+집단 간에는 생성형 AI의 윤리적 관점에 있어 차이를 보일
+것이다’는 채택되고, 나머지 가설은 기각된다.
+이러한 결과는 전문적 배경이 AI 활용분야와 윤리적 관
+점에 대한 인식에 영향을 미치는 중요한 요소일 수 있다는
+것을 시사한다. 다른 변수들에 대해서는 전문적 배경과의
+관련성이 통계적으로 유의미하지 않다고 해석할 수 있다.
+이러한 결과는 전문적 배경에 따라 AI에 대한 인식이나 활
+용 방식이 다를 수 있음을 시사하며, 특히 AI 활용 분야와
+윤리적 관점에서 더욱 그러하다.
+Ⅴ. 연구 결과와 시사점
+1. 연령대별 AI 활용 시사점
+통계적 유의성 검증 결과, 가설 1은 기각되었으므로 연
+령대가 이러한 변수들에 대한 응답에 영향을 미치지 않는다
+고 해석할 수 있다. 즉 연령대는 AI와 관련된 다양한 측면
+(활용 빈도, 활용 분야, 영향력 인식, 효과성 인식, 윤리적
+관점, 활용 역량 수준)에 대한 인식이나 태도에 큰 영향을
+미치지 않는다고 해석할 수 있다. 다만 조사대상자의 50대
+이상은 주로 교수직 사용자로서 AI 사용에 대한 인식이나
+활용 역량이 어느 정도 갖추어졌다고 볼 수 있으나, 그 외의
+직종이나 은퇴자들에게는 다른 결과가 나올 수도 있다는 점
+생성형 AI에 관한 인식 및 집단간 차이 분석 19
+을 주의할 필요가 있다. 그럼에도 연구 결과, 연령대에 관계
+없이 사람들이 AI를 비슷하게 인식하고 활용한다고 볼 수
+있다. 이는 AI 기술이 다양한 연령대에서 널리 수용되고 있
+으며, 연령에 따른 차별적인 접근보다는 보편적인 접근 방
+식이 효과적일 수 있음을 시사한다.
+이러한 시사점을 기반으로 AI 활용을 위한 접근 방안을
+제시하면 다음과 같다. 첫째, 연령대가 AI 활용에 있어서 큰
+차이를 만들어내지 않는다는 결과는 AI 관련 제품이나 서비
+스를 개발할 때 모든 연령대를 포괄하는 접근 방식을 채택
+해야 함을 시사한다. 둘째, AI 교육 및 훈련 프로그램을 설
+계할 때, 연령대에 대한 특별한 구분을 두기보다는 다양한
+사용자가 접근할 수 있는 포괄적인 콘텐츠를 제공하는 것이
+중요하다. 결국 AI 기술이 제공하는 기회는 모든 연령대에
+공평하게 열려있으며, 이를 통해 사회 전반에 긍정적인 변
+화를 가져올 수 있음을 의미한다. 물론 50대 이상의 경우
+교수직, 전문직 외 직종의 종사자나 은퇴자에 대한 대안은
+필요할 것이라는 점을 병기하고자 한다.
+2. 전문적 배경에 의한 시사점
+통계적 유의성 검증 결과, 가설 2.2는 채택되었으므로
+다양한 전문적 배경을 가진 사용자들이 AI를 활용하는 방식
+에는 차이가 있을 것이다. 이를 통해 AI 솔루션 제공자는 사
+용자의 전문적 배경에 맞춘 맞춤형 AI 도구와 서비스를 제
+공할 필요가 있음을 알 수 있다. 아울러 서로 다른 배경을
+가진 사용자들에게 효과적인 AI 활용 방법을 제공하기 위해
+교육 및 훈련 프로그램을 다양화하고 개인화하는 것이 중요
+하다고 할 수 있다.
+또한 통계적 유의성 검증 결과, 가설 2.5는 채택되었으
+므로 전문적 배경에 따라 AI의 윤리적 사용에 대한 인식은
+다를 수 있다. 이는 AI를 개발하고 배포하는 과정에서 윤리
+적 고려를 강조하는 것이 중요하다고 볼 수 있다. 그리고 사
+용자들이 AI 기술에 대한 신뢰를 가질 수 있도록 투명성과
+책임성을 강화하는 것도 중요하다[16].
+3. 응답자들의 의견 분석 결과의 시사점
+한편 본 연구는 조사 과정에서 모든 조사 대상자들에게
+'AI 활용 문제 해결 사례'
+,
+'효과적인 AI의 활용을 위한 필요
+교육훈련’
+, 그리고 'AI 역량 향상을 위한 프로그램'에 대해
+기술할 것을 요청하였다. 그 결과 다양한 의견들이 제시되
+었는데, 이를 텍스트마이닝 기법을 통해 응답 내용과 집단
+간 차이를 분석하였다.
+
+## Page 6
+20
+디지털융복합연구 제22권 제1호
+먼저, 연령대별로 'AI 활용 문제 해결 사례'
+,
+'효과적인 AI
+의 활용을 위한 필요 교육훈련’
+, 그리고 'AI 역량 향상을 위
+한 프로그램'에서 가장 많이 출현한 개념과 연령대별 차이를
+분석한 결과는 다음과 같다.
+각 연령대별로 AI 관련 주제와 관심사에 차이가 있음을
+보여준다. 예를 들어, 50세 이상에서는 '보고서 작성'과 '프
+롬프트' 관련 내용이 강조되는 반면, 30-39세에서는 '데이
+터'
+,
+'초미세먼지 예측' 등 구체적인 응용 분야에 대해 관심
+을 보인 것으로 나타났다. 그리고 각 연령대별로 AI를 활용
+하는 방식, 필요한 교육 및 훈련 분야, 그리고 AI 역량 향상
+을 위한 프로그램에 대한 의견이 다양함을 알 수 있다. 이러
+한 분석은 AI 교육 및 역량 강화 프로그램을 설계할 때, 연
+령대별 특성과 필요를 고려해야 함을 시사한다. 이를 통해
+각 연령대의 요구와 관심사에 맞춘 맞춤형 AI 교육 및 프로
+그램을 제공할 수 있을 것이다.
+다음으로 전문적 배경별로 'AI 활용 문제 해결 사례'
+'효
+,
+과적인 AI의 활용을 위한 필요 교육훈련’
+, 그리고 'AI 역량
+향상을 위한 프로그램'에서 가장 많이 출현한 개념과 연령대
+별 차이를 분석한 결과는 다음과 같다.
+전문적 배경별로 AI 관련 주제와 관심사에 차이가 있음
+을 볼 수 있다. 예를 들어, 교수들은 문서 작성, 연구, 프롬
+프트 디자인에 관심이 많고, 연구원들은 요약, 보고서 작성,
+기본적인 AI 활용에 관심을 보였다. 관리자/경영자는 보고
+서 처리, AI 활용 능력, 다양한 활용 방법에 관심이 많음을
+알 수 있다. 각 전문적 배경에 따른 AI 활용 방식, 교육 및
+훈련 필요 분야, AI 역량 강화 방향에 차이가 있음을 고려하
+여, 맞춤형 AI 교육 및 훈련 프로그램을 설계하는 것이 중요
+하다. AI 기술의 교육 및 개발은 전문적 배경과 업무 분야의
+요구사항을 반영하여 이루어져야 할 것이다. 이를 통해 보
+다 효과적인 AI 활용과 역량 향상을 도모할 수 있다.
+Ⅵ. 결론
+본 연구는 생성형 AI의 활용 및 사용자 그룹 간 차이에
+대한 인식을 조사하고 이를 분석하여 각 사용자층에 대한
+AI 활용 역량 증진을 위한 시사점을 도출하였다. 이를 수행
+하는 과정에서 두 개의 독립변수와 여섯 개의 종속변수에
+의한 가설을 설정하고 이를 검증하였다. 검증 결과, 연령별
+집단 간에는 유의적인 차이가 없음을 밝히고, 전문적 배경
+에 의한 집단 간에는 생성형 AI 활용 분야와 생성형 AI의 윤
+리적 관점에서 통계적으로 유의미한 차이를 보임을 밝혔다.
+이로 인해 본 연구는 전문 분야에 따라 다른 AI 솔루션
+제공 및 맞춤형 교육 훈련 필요성, 윤리적 고려에 대한 특별
+한 교육과 문화 형성 등에 대한 대안을 제시하였다는 점에
+서 연구 기여점을 찾고자 한다. 이 외에도 텍스트 마이닝 기
+법을 통해 연령대별, 전문 분야별로 다른 방식의 AI 활용 및
+활용 역량 개발 교육 등이 제안된 점도 중요한 실무적 기여
+점이라 할 수 있다. 이울러 본 연구는 국내의 다양한 사용자
+그룹에 대한 인식 및 활용에 대한 차이 조사를 실시·분석했
+다는 점에서 학술적 기여를 했다고 사료된다.
+다만, 본 연구는 연구 집단의 샘플 모집 과정에서 랜더링
+샘플방식을 채택하지 못해 연구 대상 집단간 편중현상에 의
+한 연구 결과가 나왔을 수 있다는 한계를 가지고 있다. 이에
+본 연구는 향후 연구 집단을 모집하는 과정을 과학적으로
+접근해 편중되니 않은 표본 집단을 통해 연구를 실시함으로
+써 결과 역시 객관적 타당성을 확보할 필요가 있다. 아울러
+현장 도메인별 학계, 산업 및 AI 전문가 등에 대한 심층적
+인터뷰를 실시하면 현장 적응형 생성형 AI 활용 역량 대안
+을 제시할 수 있을 것이다.
+REFERENCES
+[1] Mitchell, Melanie(2019). A rtif icial Intelli gence: A
+G uide f or Th inking H umans. Amazon.
+[2] Tegmark, Max(2017). L ife 3.0: B ein g Human in the
+A ge of A rtif icial Intelli gence. Amazon.
+[3] O'Neil, Cathy(2016). W eapons of Math Destruction.
+Crown Books.
+[4] Noble, Safiya Umoja(2018). Al gorithms of
+O ppression: H ow S earch E ngines R einforce Racism.
+NYU Press.
+[5] Murray, Seb. (2023). W h y Generative AI
+Investments Are S urging in the U .S .. knowledge at
+wharton.
+https://knowledge.wharton.upenn.edu/article/why-g
+enerative-ai-investments-are-surging-in-the-u-s/
+[6] Salesforce. (2023). T op Generative AI S tatistics f or
+2 023. News & Insights.
+https://www.salesforce.com/news/stories/generativ
+e-ai-statistics/
+[7] S. K. Oh, M. J. Jang & J. E. Park. (2023).
+Undergraduates
+’ Awareness of the Ethics of
+Generative AI Utilization in College Writing. L iteracy
+S tud ies, 14 ( 4 ) 69-96.
+[8] Apotheker, J. et al. (2024). From P otential to P rofit
+with G enAI . BCG.
+https://www.bcg.com/publications/2024/from-pote
+
+## Page 7
+생성형 AI에 관한 인식 및 집단간 차이 분석 21
+ntial-to-profit-with-genai
+[9] Chugh, Vidhi. (2023). Ethics in G enerative A I.
+Datacamp.
+https://www.datacamp.com/tutorial/ethics-in-gener
+ative-ai
+[10] Deloitte(2023). Many E xecutives Uncertain if Th eir
+O rganizations H ave E th ical S tandards f or G enerative
+AI: Deloitte S tate of Ethics and Trust in T echnol ogy
+Re port.
+https://www2.deloitte.com/us/en/pages/about-delo
+itte/articles/press-releases/many-executives-uncer
+tain-if-their-organizations-have-ethical-standards-f
+or-generative-ai.html
+[11] Weidinger, Laura & Isaac, William(2023). Evaluating
+social and eth ical risks from generative A I.
+DeepMind.
+[12] S. H. Lee(2023). A study on learners
+' digital literacy
+perceptions and performance diagnosis of
+problem-based learning using generative AI:
+Focusing on smart tourism students. T ourism
+Research Journal , 37 ( 7 ) 129-145.
+[13] G. Lee(2023). University students
+’
+change of
+awareness and self-directed learning competencies
+after experience using and applying Chat GPT.
+Universit y teach ing and learnin g research , 16 ( 3 )
+71-94.
+[14] Y. H. Lee(2023). Analysis of College Students
+'
+Perception about Generative Artificial Intelligence
+ChatGPT. A T reatise on The P lastic Med ia, 26 ( 4 )
+46-55.
+[15] D. H. Choi, J. Y. Kim, E. Han & C. H. Oh(2023).
+Understanding User Perception of Generative AI and
+Copyright of AI-Generated Outputs: focusing on
+differences by user group. T he journal of
+C onvergence on Culture T echnol ogy, 9 ( 1 ) 777-786.
+[16] Generative AI Research Group (2023). G enerative A I
+prompt d esi gn. Gwangmungak Publishing Media.
